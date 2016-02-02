@@ -1,0 +1,309 @@
+{
+"symbolList" :[
+  {
+    "SYMBOL":"DUNCANSLTD.BO",
+    "NAME":"DUNCANS INDUSTRIES LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"IMPAL.BO",
+    "NAME":"INDIA MOTOR PARTS &amp; ACCESSORIES LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"KCP.BO",
+    "NAME":"K.C.P.LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"KHAITANLTD.BO",
+    "NAME":"KHAITAN (INDIA) LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"RADAAN.BO",
+    "NAME":"RADAAN MEDIAWORKS (I) LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"SUNDARMFIN.BO",
+    "NAME":"SUNDARAM FINANCE LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"SUNDRMBRAK.BO",
+    "NAME":"SUNDARAM BRAKE LININGS LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"WHEELS.BO",
+    "NAME":"WHEELS INDIA LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"LAMBODHARA.BO",
+    "NAME":"LAMBODHARA TEXTILES LTD.-$",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"MAITHANALL.BO",
+    "NAME":"MAITHAN ALLOYS LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"EASTERNGAS.BO",
+    "NAME":"EASTERN GASES LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"BRAHMANAN.BO",
+    "NAME":"BRAHMANAND HIMGHAR LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"LOHIASEC.BO",
+    "NAME":"LOHIA SECURITIES LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"MAVENSBIO.BO",
+    "NAME":"MAVENS BIOTECH LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"KANCOENT.BO",
+    "NAME":"KANCO ENTERPRISES LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"ORISSAMINE.BO",
+    "NAME":"ORISSA MINERALS DEVELOPMENT COMPANY LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"ELLENBARR.BO",
+    "NAME":"ELLENBARRIE INDUSTRIAL GASES LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"ADINATHBI.BO",
+    "NAME":"ADINATH BIO-LABS LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"SWAGRO.BO",
+    "NAME":"Swarnajyothi Agrotech &amp; Power Limited-$",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"TRINETHRA.BO",
+    "NAME":"TRINETHRA INFRA VENTURES LTD.-$",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"FARMAXIND.BO",
+    "NAME":"Farmax India Limited-$",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"NIFTYBEES.BO",
+    "NAME":"Goldman Sachs Nifty Exchange Traded Scheme",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"JUNIORBEES.BO",
+    "NAME":"Goldman Sachs Nifty Junior Exchange Traded Scheme",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"BANKBEES.BO",
+    "NAME":"Goldman Sachs Banking Index Exchange Traded Scheme",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"KOTAKPSUBK.BO",
+    "NAME":"KOTAK MAHINDRA MUTUAL FUND - KOTAK PSU BANK ETF",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"PSUBNKBEES.BO",
+    "NAME":"Goldman Sachs PSU Bank Exchange Traded Scheme",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"SHARIABEES.BO",
+    "NAME":"Goldman Sachs S&amp;P CNX Nifty Shariah Index Exchange Traded Scheme",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"QNIFTY.BO",
+    "NAME":"QUANTUM MUTUAL FUND - QUANTUM INDEX FUND ETF",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"VAISHNAVI.BO",
+    "NAME":"Vaishnavi Gold Limited-$",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"M50.BO",
+    "NAME":"MOTILAL OSWAL MUTUAL FUND",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"7SEAS.BO",
+    "NAME":"7Seas Technologies Ltd-$",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"PROVEST.BO",
+    "NAME":"PROVESTMENT SERVICES LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"ASHIKACR.BO",
+    "NAME":"ASHIKA CREDIT CAPITAL LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"RUNEECHA.BO",
+    "NAME":"RUNEECHA TEXTILES LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"GRADIENTE.BO",
+    "NAME":"GRADIENTE INFOTAINMENT LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"SHREETULSI.BO",
+    "NAME":"SHREE TULSI ONLINE.COM LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"KANCOTEA.BO",
+    "NAME":"KANCO TEA &amp; INDUSTRIES LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"JAYMAHESH.BO",
+    "NAME":"JAY MAHESH INFRAVENTURES LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"GENERAAGRI.BO",
+    "NAME":"GENERA AGRI CORP LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"MADRASFERT.BO",
+    "NAME":"Madras Fertilizers Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"JDL.BO",
+    "NAME":"Jaisukh Dealers Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"GSL.BO",
+    "NAME":"Gracious Software Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"KKIL.BO",
+    "NAME":"Kanak Krishi Implements Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"AUTUMN.BO",
+    "NAME":"Autumn Builders Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"LEAP.BO",
+    "NAME":"Learning Edge Academy of Professionals Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"DEKSON.BO",
+    "NAME":"Dekson Castings Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"PCPL.BO",
+    "NAME":"Premier Chennai Properties Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"SUPERNOVA.BO",
+    "NAME":"Supernova Advertising Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"MCL.BO",
+    "NAME":"Madhuban Constructions Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"KDTWL.BO",
+    "NAME":"K D Trend Wear Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"RICHWAY.BO",
+    "NAME":"Richway International Trade Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"GOKULSOL.BO",
+    "NAME":"Gokul Solutions Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"CITYON.BO",
+    "NAME":"Cityon Systems (India) Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"HASJUICE.BO",
+    "NAME":"Has Lifestyle Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"SANASATECH.BO",
+    "NAME":"Sanasa Tech Feb Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"WEBSL.BO",
+    "NAME":"Web Element Solutions Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"PSAL.BO",
+    "NAME":"Parnav Sports Academy Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"ADHIRAJ.BO",
+    "NAME":"Adhiraj Distributors Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"JIGYASA.BO",
+    "NAME":"Jigyasa Infrastructure Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"PRITIKAST.BO",
+    "NAME":"Pritika Autocast Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"LEGACY.BO",
+    "NAME":"Legacy Mercantile Ltd",
+    "EXCHANGE":"BSE"
+  }
+]
+}

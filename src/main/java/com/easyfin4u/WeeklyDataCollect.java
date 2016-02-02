@@ -3,6 +3,7 @@ package com.easyfin4u;
 
 import java.io.FileReader;
 import java.text.SimpleDateFormat;
+import java.util.ArrayList;
 import java.util.Calendar;
 
 import yahoofinance.Stock;
@@ -11,6 +12,7 @@ import yahoofinance.histquotes.HistoricalQuote;
 import yahoofinance.histquotes.Interval;
 
 import java.util.Iterator;
+import java.util.List;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
@@ -20,6 +22,7 @@ import com.mongodb.BasicDBObject;
 import com.mongodb.DB;
 import com.mongodb.DBCollection;
 import com.mongodb.MongoClient;
+import com.mongodb.WriteResult;
 
 public class WeeklyDataCollect {
 	
@@ -39,9 +42,9 @@ public class WeeklyDataCollect {
 
 			Calendar from = Calendar.getInstance();
 			Calendar to = Calendar.getInstance();
-			from.add(Calendar.YEAR, -1); // from 5 years ago 
+			from.add(Calendar.DAY_OF_MONTH, -5); // from 5 years ago 
 			
-			Object obj = parser.parse(new FileReader("/Users/ssaini/Documents/DSGWorkspace/Easyfin4uUtil/nasdaq_symbol.json"));
+			Object obj = parser.parse(new FileReader("/Users/Sandy/Documents/workspace/Easyfin4uUtil/bse_symbol.json"));
 
 			JSONObject jsonObject = (JSONObject) obj;
 			JSONArray symbolList = (JSONArray) jsonObject.get("symbolList");
@@ -60,13 +63,13 @@ public class WeeklyDataCollect {
 								strdate = sdf.format(temp.getDate().getTime());
 								}
 							
-							/*System.out.println(symbol);
+							System.out.println(symbol);
 							System.out.println(strdate);
-							System.out.println(temp.getLow());
-							System.out.println(temp.getHigh());
-							System.out.println(temp.getOpen());
-							System.out.println(temp.getClose());
-							System.out.println(temp.getAdjClose());*/
+//							System.out.println(temp.getLow());
+//							System.out.println(temp.getHigh());
+//							System.out.println(temp.getOpen());
+//							System.out.println(temp.getClose());
+//							System.out.println(temp.getAdjClose());
 							
 							WeeklyDataCollect.insertToMongo(symbol,strdate,temp.getLow().toPlainString(),temp.getHigh().toPlainString(),
 									temp.getOpen().toPlainString(),temp.getClose().toPlainString(),temp.getAdjClose().toPlainString());
@@ -89,6 +92,14 @@ public class WeeklyDataCollect {
 	public static void insertToMongo(String symbol,String date, String dayLow, String dayHigh, String dayOpen,
 				String dayClose, String dayAdj){
 		
+		WriteResult wr = null;
+		
+		BasicDBObject andQuery = new BasicDBObject();
+		List<BasicDBObject> obj = new ArrayList<BasicDBObject>();
+		obj.add(new BasicDBObject("symbol", symbol));
+		obj.add(new BasicDBObject("date", date));
+		andQuery.put("$and", obj);
+		
 		/**** Insert ****/
 		// create a document to store key and value
 		BasicDBObject document = new BasicDBObject();
@@ -99,7 +110,7 @@ public class WeeklyDataCollect {
 		document.put("day_open", dayOpen);
 		document.put("day_close", dayClose);
 		document.put("day_end_adjusted", dayAdj);
-		table.insert(document);
+		wr = table.update(andQuery,document,true,true);
 		
 	}
 	
