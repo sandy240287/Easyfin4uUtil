@@ -1,0 +1,578 @@
+{
+"symbolList" :[
+  {
+    "SYMBOL":"LIBERTSHOE.BO",
+    "NAME":"LIBERTY SHOES LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"LIPPISYS.BO",
+    "NAME":"LIPPI SYSTEMS LTD.-$",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"ELECTHERM.BO",
+    "NAME":"ELECTROTHERM (INDIA) LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"BLUEDART.BO",
+    "NAME":"BLUE DART EXPRESS LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"EXPOGAS.BO",
+    "NAME":"EXPO GAS CONTAINERS LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"NATPLAS.BO",
+    "NAME":"NATIONAL PLASTIC INDUSTRIES LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"MFLINDIA.BO",
+    "NAME":"MFL INDIA LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"AJWAFUN.BO",
+    "NAME":"AJWA FUN WORLD &amp; RESORT LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"RAYALEMA.BO",
+    "NAME":"ROYALE MANOR HOTELS &amp; INDUSTRIES LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"MIRZAINT.BO",
+    "NAME":"MIRZA INTERNATIONAL LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"TFCILTD.BO",
+    "NAME":"TOURISM FINANCE CORPORATION OF INDIA LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"CALSREF.BO",
+    "NAME":"CALS REFINERIES LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"THAKDEV.BO",
+    "NAME":"THAKKERS DEVELOPERS LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"ARENTERP.BO",
+    "NAME":"RAJDARSHAN INDUSTRIES LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"BIL.BO",
+    "NAME":"BHARTIYA INTERNATIONAL LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"KAMATHOTEL.BO",
+    "NAME":"KAMAT HOTELS (INDIA) LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"MKEL.BO",
+    "NAME":"Matra Kaushal Enterprise Limited",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"HOTELRUGBY.BO",
+    "NAME":"HOTEL RUGBY LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"POLOHOT.BO",
+    "NAME":"POLO HOTELS LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"FENOPLAS.BO",
+    "NAME":"FENOPLAST LTD.-$",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"ECOPLAST.BO",
+    "NAME":"ECOPLAST LTD.-$",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"ELEMARB.BO",
+    "NAME":"ELEGANT MARBLES &amp; GRANI INDUSTRIES LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"ALCHEM.BO",
+    "NAME":"ALCHEMIST LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"BITS.BO",
+    "NAME":"BITS LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"ADARSHPL.BO",
+    "NAME":"ADARSH PLANT PROTECT LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"GOPALA.BO",
+    "NAME":"GOPALA POLYPLAST LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"NICCOPAR.BO",
+    "NAME":"NICCO PARKS &amp; RESORTS LTD.-$",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"NTCIND.BO",
+    "NAME":"NTC INDUSTRIES LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"SANDESH.BO",
+    "NAME":"SANDESH LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"GARNET.BO",
+    "NAME":"GARNET CONSTRUCTION LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"GOLDIAM.BO",
+    "NAME":"GOLDIAM INTERNATIONAL LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"BRIGHTBR.BO",
+    "NAME":"BRIGHT BROTHERS LTD.-$",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"EXCAST.BO",
+    "NAME":"Excel Castronics Limited",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"CORPOCO.BO",
+    "NAME":"CORPORATE COURIER AND CARGO LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"SHAWGELTIN.BO",
+    "NAME":"NARMADA GELATINES LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"PGFOILQ.BO",
+    "NAME":"PG FOILS LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"GRATEXI.BO",
+    "NAME":"GRATEX INDUSTRIES LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"VELHO.BO",
+    "NAME":"VELAN HOTELS LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"HOWARHO.BO",
+    "NAME":"HOWARD HOTELS LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"VALIANT.BO",
+    "NAME":"VALIANT COMMUNICATIONS LTD.-$",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"DRAGARWQ.BO",
+    "NAME":"DR.AGARWAL'S EYE HOSPITAL LTD.-$",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"MHSGRMS.BO",
+    "NAME":"MAHASAGAR TRAVELS LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"GREENPLY.BO",
+    "NAME":"GREENPLY INDUSTRIES LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"UNQTYMI.BO",
+    "NAME":"UNION QUALITY PLASTICS LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"PSL.BO",
+    "NAME":"PSL LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"SEAMECLTD.BO",
+    "NAME":"SEAMEC LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"RAGHUNAT.BO",
+    "NAME":"RAGHUNATH INTERNATIONAL LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"CHEVIOT.BO",
+    "NAME":"CHEVIOT CO.LTD.-$",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"DAICHI.BO",
+    "NAME":"DAI-ICHI KARKARIA LTD.-$",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"RAJINFRA.BO",
+    "NAME":"Rajeswari Infrastructure Limited",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"SPICEISL.BO",
+    "NAME":"SPICE ISLANDS APPARELS LTD.-$",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"CONFIPET.BO",
+    "NAME":"CONFIDENCE PETROLEUM INDIA LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"SIPL.BO",
+    "NAME":"SHELTER INFRA PROJECTS LTD.-$",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"ATLANTADEV.BO",
+    "NAME":"Atlanta Devcon Limited",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"ASHSI.BO",
+    "NAME":"ASHIRWAD STEELS &amp; INDUSTRIES LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"BANARBEADS.BO",
+    "NAME":"BANARAS BEADS LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"AREXMIS.BO",
+    "NAME":"AREX INDUSTRIES LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"BI.BO",
+    "NAME":"BILCARE LTD.-$",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"ISFL.BO",
+    "NAME":"ISF LIMITED",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"RISHILASE.BO",
+    "NAME":"RISHI LASER LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"JAINCO.BO",
+    "NAME":"JAINCO PROJECTS (INDIA) LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"INTECCAP.BO",
+    "NAME":"INTEC CAPITAL LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"RAJGASES.BO",
+    "NAME":"RAJASTHAN GASES LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"FINANTECH.BO",
+    "NAME":"FINANCIAL TECHNOLOGIES (INDIA) LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"SARLAPOLY.BO",
+    "NAME":"SARLA PERFORMANCE FIBERS LTD.-$",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"INDOCRED.BO",
+    "NAME":"INDO CREDIT CAPITAL LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"MKTCREAT.BO",
+    "NAME":"MARKET CREATORS LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"HIMIN.BO",
+    "NAME":"HIMALYA INTERNATIONAL LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"SONALAD.BO",
+    "NAME":"SONAL ADHESIVES LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"CHDDLTD.BO",
+    "NAME":"CHD DEVELOPERS LTD.-$",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"21STCENMGM.BO",
+    "NAME":"TWENTYFIRST CENTURY MANAGEMENT SERVICES LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"DION.BO",
+    "NAME":"DION GLOBAL SOLUTIONS LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"HRYNSHP.BO",
+    "NAME":"HARIYANA SHIP BREAKERS LTD.-$",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"MBPARIKH.BO",
+    "NAME":"M.B.PARIKH FINSTOCKS LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"VAICC.BO",
+    "NAME":"VAISHNO CEMENT CO.LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"TYROON.BO",
+    "NAME":"TYROON TEA CO.LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"LAOPALA.BO",
+    "NAME":"LA OPALA RG LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"STYLAMIND.BO",
+    "NAME":"Stylam Industries Limited",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"VENUSREM.BO",
+    "NAME":"VENUS REMEDIES LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"UVBOARDS.BO",
+    "NAME":"UV BOARDS LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"WOODSVILA.BO",
+    "NAME":"WOODSVILLA LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"TRANSFIN.BO",
+    "NAME":"TRANS FINANCIAL RESOURCES LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"GUJCRAFT.BO",
+    "NAME":"GUJARAT CRAFT INDUSTRIES LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"HEERAISP.BO",
+    "NAME":"HEERA ISPAT LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"DHOOTIN.BO",
+    "NAME":"DHOOT INDUSTRIAL FINANCE LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"CRIMSON.BO",
+    "NAME":"Crimson Metal Engineering Company Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"SHBAJRG.BO",
+    "NAME":"SHRI BAJRANG ALLOYS LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"ASHOKRE.BO",
+    "NAME":"ASHOKA REFINERIES LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"URJAGLOBA.BO",
+    "NAME":"URJA GLOBAL LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"ASHAPURMIN.BO",
+    "NAME":"ASHAPURA MINECHEM LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"SHREEPAC.BO",
+    "NAME":"SHREE PACETRONIX LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"GUJALKALI.BO",
+    "NAME":"GUJARAT ALKALIES &amp; CHEMICALS LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"INDIACEM.BO",
+    "NAME":"INDIA CEMENTS LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"JKTYRE.BO",
+    "NAME":"JK TYRE &amp; INDUSTRIES LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"MANGCHEFER.BO",
+    "NAME":"MANGALORE CHEMICALS &amp; FERTILIZERS LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"SIL.BO",
+    "NAME":"STANDARD INDUSTRIES LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"JUBILANT.BO",
+    "NAME":"JUBILANT LIFE SCIENCES LIMITED",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"FORTUNEF.BO",
+    "NAME":"FORTUNE FINANCIAL SERVICES (INDIA) LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"SAMYAKINT.BO",
+    "NAME":"SAMYAK INTERNATIONAL LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"AADIIND.BO",
+    "NAME":"AADI INDUSTRIES LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"SANTOSHF.BO",
+    "NAME":"SANTOSH FINE-FAB LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"SREEJAYA.BO",
+    "NAME":"SREE JAYALAKSHMI AUTOSPIN LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"ACKNIT.BO",
+    "NAME":"ACKNIT INDUSTRIES LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"TITANSEC.BO",
+    "NAME":"TITAN SECURITIES LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"RAIREKMOH.BO",
+    "NAME":"RAI SAHEB REKHCHAND MOHOTA SPG.&amp; WVG.MILLS LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"JJEXPO.BO",
+    "NAME":"J.J.EXPORTERS LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"RREALTY.BO",
+    "NAME":"REAL REALTY MANAGEMENT COMPANY LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"HRMNYCP.BO",
+    "NAME":"HARMONY CAPITAL SERVICES LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"IVEE.BO",
+    "NAME":"IVEE INJECTAA LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"YASHRAJC.BO",
+    "NAME":"YASHRAJ CONTAINEURS LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"LORDSHOTL.BO",
+    "NAME":"Lords Ishwar Hotels Limited",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"CNSDSEC.BO",
+    "NAME":"CONSOLIDATED SECURITIES LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"SANGHVIMOV.BO",
+    "NAME":"SANGHVI MOVERS LTD.",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"SELAN.BO",
+    "NAME":"SELAN EXPLORATION TECHNOLOGY LTD.-$",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"FRSHTRP.BO",
+    "NAME":"FRESHTROP FRUITS LTD.",
+    "EXCHANGE":"BSE"
+  }]
+}

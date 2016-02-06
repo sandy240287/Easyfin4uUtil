@@ -1,0 +1,453 @@
+{
+"symbolList" :[
+  {
+    "SYMBOL":"SUNLOC.BO",
+    "NAME":"Sunil Healthcare Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"RCIIND.BO",
+    "NAME":"RCI Industries &amp; Technologies Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"SUYOG.BO",
+    "NAME":"Suyog Telematics Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"NATHBIOGEN.BO",
+    "NAME":"Nath Bio-Genes (India) Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"AGRITECH.BO",
+    "NAME":"Agri- Tech (India) Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"CHEMTECH.BO",
+    "NAME":"Chemtech Industrial Valves Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"GAILBBPH.BO",
+    "NAME":"GAILBBPH",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"TAAZAINT.BO",
+    "NAME":"Taaza International Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"IDFCEOS2RD.BO",
+    "NAME":"IDFC Mutual Fund- IDFC Equity Opportunity- Series 2 - Regular Plan- Dividend",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"IDFCEOS2DD.BO",
+    "NAME":"IDFC Mutual Fund - IDFC Equity Opportunity- Series 2 - Direct Plan- Dividend",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"RELCNX100.BO",
+    "NAME":"Reliance Mutual Fund - R Shares CNX 100 Fund",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"RELNIFTY.BO",
+    "NAME":"Reliance Mutual Fund - R Shares Nifty ETF",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"AGRIMONY.BO",
+    "NAME":"Agrimony Commodities Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"DENISCHEM.BO",
+    "NAME":"Denis Chem Lab Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"POLYMAC.BO",
+    "NAME":"Polymac Thermoformers Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"UNISHIRE.BO",
+    "NAME":"Unishire Urban Infra Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"BSLFEFS1RG.BO",
+    "NAME":"Birla Sun Life Mutual Fund- Birla Sun Life Focused Equity Fund - Series 1 - Regular Plan - Growth",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"BSLFEFS1RN.BO",
+    "NAME":"Birla Sun Life Mutual Fund- Birla Sun Life Focused Equity Fund-Series 1-Regular Plan-Divind Payot",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"BSLFEFS1DG.BO",
+    "NAME":"Birla Sun Life Mutual Fund - Birla Sun Life Focused Equity Fund - Series 1 - Direct Plan - Growth",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"BSLFEFS1DN.BO",
+    "NAME":"Birla Sun Life Mutual Fund - Birla Sun Life Focused Equity Fund-Series 1-Direct Plan-Dividnd Payot",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"IPRU2262.BO",
+    "NAME":"ICICI Prudential Mutual Fund - ICICI Prudential Equity Savings Fund Series 1-Reglr Plan Cumulative",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"IPRU2263.BO",
+    "NAME":"ICICI Prudential Mutual Fund - ICICI Prudential Equity Savings Fund Series 1-Regular Plan Dividend",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"IPRU8462.BO",
+    "NAME":"ICICI Prudential Mutual Fund - ICICI Prudential Equity Savings Fund Series 1-Direct Plan Cumulative",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"IPRU8463.BO",
+    "NAME":"ICICI Prudential Mutual Fund - ICICI Prudential Equity Savings Fund Series 1 - Direct Plan Dividend",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"SIVI.BO",
+    "NAME":"Siddhi Vinayak Shipping Corporation Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"ETT.BO",
+    "NAME":"ETT Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"KOTAKNIFTY.BO",
+    "NAME":"Kotak Mahindra Mutual Fund - Kotak Nifty ETF",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"KIRANVYPAR.BO",
+    "NAME":"Kiran Vyapar Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"BCP.BO",
+    "NAME":"B.C. Power Controls Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"KCSL.BO",
+    "NAME":"Karnimata Cold Storage Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"ANISHAIMPEX.BO",
+    "NAME":"Anisha Impex Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"MANGIND.BO",
+    "NAME":"Mangalam Industrial Finance Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"MITL.BO",
+    "NAME":"Mahadushi International Trade Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"PHOENIXTN.BO",
+    "NAME":"Phoenix Township Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"RAUNAQEPC.BO",
+    "NAME":"Raunaq EPC International Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"HRGESSRG2.BO",
+    "NAME":"HDFC Mutual Fund - HDFC Rajiv Gandhi Equity Savings Scheme - Series 2 - Regular Plan - G O",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"HRGESSRD2.BO",
+    "NAME":"HDFC Mutual Fund - HDFC Rajiv Gandhi Equity Savings Scheme - Series 2-Regular Plan- D P O",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"HRGESSDG2.BO",
+    "NAME":"HDFC Mutual Fund - HDFC Rajiv Gandhi Equity Savings Scheme - Series 2- Direct Plan- Growth O",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"HRGESSDD2.BO",
+    "NAME":"HDFC Mutual Fund - HDFC Rajiv Gandhi Equity Savings Scheme - Series 2- Direct Plan- Dvdd P O",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"IPRU2296.BO",
+    "NAME":"ICICI Prudential Value Fund Series 3(Regular Dividend Option)",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"IPRU8496.BO",
+    "NAME":"ICICI Prudential Value Fund Series 3(Direct Dividend Option)",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"SKP.BO",
+    "NAME":"Shri Krishna Prasadam Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"LICNFR2GP.BO",
+    "NAME":"LIC NOMURA MF RGESS Fund Series -2 -Regular Plan -Growth Option",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"LICNFR2DP.BO",
+    "NAME":"LIC NOMURA MF RGESS Fund Series -2 -Regular Plan- Dividend Payout Option",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"LICNFR2G1.BO",
+    "NAME":"LIC NOMURA MF RGESS Fund Series- 2 -Direct Plan- Growth Option",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"LICNFR2D1.BO",
+    "NAME":"LIC NOMURA MF RGESS Fund Series- 2 -Direct Plan -Dividend Payout Option",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"BSLFEFS2RG.BO",
+    "NAME":"Birla Sun Life Mutual Fund- Birla Sun Life Focused Equity Fund - Series 2 - Regular Plan - Growth",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"BSLFEFS2RN.BO",
+    "NAME":"Birla Sun Life Mutual Fund- Birla Sun Life Focused Equity Fund - Series 2 - Regular Plan - D P",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"BSLFEFS2DG.BO",
+    "NAME":"Birla Sun Life Mutual Fund-  Birla Sun Life Focused Equity Fund - Series 2 - Direct Plan - Growth",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"BSLFEFS2DN.BO",
+    "NAME":"Birla Sun Life Mutual Fund-  Birla Sun Life Focused Equity Fund - Series 2 - Direct Plan-Dividend P",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"OBIL.BO",
+    "NAME":"Oceanaa Biotek Industries Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"CPSEETF.BO",
+    "NAME":"Goldman Sachs Mutual Fund- CPSE ETF-Growth Option",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"HARIAAPL.BO",
+    "NAME":"Haria Apparels Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"JOONKTOLL.BO",
+    "NAME":"Joonktollee Tea &amp; Industries Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"RNBDENIMS.BO",
+    "NAME":"R&amp;B Denims Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"WOMENSNEXT.BO",
+    "NAME":"Women's Next Loungeries Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"SHARPINV.BO",
+    "NAME":"Sharp Investments Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"WONDERLA.BO",
+    "NAME":"Wonderla Holidays Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"RESPONSINF.BO",
+    "NAME":"Response Informatics Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"IPRU2365.BO",
+    "NAME":"IPRU2365",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"IPRU2366.BO",
+    "NAME":"IPRU2366",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"IPRU8565.BO",
+    "NAME":"IPRU8565",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"IPRU8566.BO",
+    "NAME":"IPRU8566",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"GCMCAPI.BO",
+    "NAME":"GCM Capital Advisors Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"AFEL.BO",
+    "NAME":"A.F. Enterprises Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"ADHUNIKIND.BO",
+    "NAME":"Adhunik Industries Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"WESTLEIRES.BO",
+    "NAME":"West Leisure Resorts Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"NAM.BO",
+    "NAME":"Nam Securities Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"METSL.BO",
+    "NAME":"Maestros Electronics &amp; Telecommunications Systems Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"SPS.BO",
+    "NAME":"SPS Finquest Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"RCLEDIIADD.BO",
+    "NAME":"Reliance Close Ended Equity Fund II- Series A - Direct Plan Dividend Payout Option",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"RCLEDIIADG.BO",
+    "NAME":"Reliance Close Ended Equity Fund II- Series A - Direct Plan Growth Option",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"RCLENDIIAD.BO",
+    "NAME":"Reliance Close Ended Equity Fund II- Series A - Dividend Payout Option",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"RCLENDIIAG.BO",
+    "NAME":"Reliance Close Ended Equity Fund II- Series A - Growth Option",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"JACKSON.BO",
+    "NAME":"Jackson Investments Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"CCFCL.BO",
+    "NAME":"Classic Global Finance &amp; Capital Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"DHANUKACOM.BO",
+    "NAME":"Dhanuka Commercial Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"WORTH.BO",
+    "NAME":"Worth Investment &amp; Trading Co Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"TPROJECT.BO",
+    "NAME":"Thirani Projects Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"AMARSEC.BO",
+    "NAME":"Amarnath Securities Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"CTL.BO",
+    "NAME":"Capital Trade Links Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"TARINI.BO",
+    "NAME":"Tarini International Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"IPRU2401.BO",
+    "NAME":"ICICI Prudential Growth Fund Series 1 (Regular Dividend Payout)",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"IPRU8601.BO",
+    "NAME":"ICICI Prudential Growth Fund Series 1 (Direct Dividend Option)",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"SBL.BO",
+    "NAME":"Siddarth Businesses Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"CROWNTOURS.BO",
+    "NAME":"Crown Tours Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"JTAPARIA.BO",
+    "NAME":"J. Taparia Projects Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"RLFL.BO",
+    "NAME":"Ramchandra Leasing &amp; Finance Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"BRPL.BO",
+    "NAME":"Bansal Roofing Products Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"OASIS.BO",
+    "NAME":"Oasis Tradelink Ltd",
+    "EXCHANGE":"BSE"
+  }]
+}

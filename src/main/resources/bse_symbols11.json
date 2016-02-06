@@ -1,0 +1,253 @@
+{
+"symbolList" :[
+  {
+    "SYMBOL":"SIENERGY.BO",
+    "NAME":"Sinner Energy India Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"BSLFEFS6RG.BO",
+    "NAME":"BIRLA SUN LIFE FOCUSED EQUITY FUND- SERIES 6- REGULAR PLAN- GROWTH",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"BSLFEFS6RN.BO",
+    "NAME":"BIRLA SUN LIFE FOCUSED EQUITY FUND- SERIES 6- REGULAR PLAN- DIVIDEND PAYOUT",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"BSLFEFS6DG.BO",
+    "NAME":"BIRLA SUN LIFE FOCUSED EQUITY FUND- SERIES 6- DIRECT PLAN- GROWTH",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"BSLFEFS6DN.BO",
+    "NAME":"BIRLA SUN LIFE FOCUSED EQUITY FUND- SERIES 6- DIRECT PLAN- DIVIDEND PAYOUT",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"TEJNAKSH.BO",
+    "NAME":"Tejnaksh Healthcare Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"INDOGLOBAL.BO",
+    "NAME":"Indo-Global Enterprises Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"BRIPORT.BO",
+    "NAME":"Brilliant Portfolios Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"RFSL.BO",
+    "NAME":"Richfield Financial Services Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"COFFEEDAY.BO",
+    "NAME":"Coffee Day Enterprises Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"IDFCBANK.BO",
+    "NAME":"IDFC Bank Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"KRISHFAB.BO",
+    "NAME":"Krishana Fabrics Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"BEARDSELL.BO",
+    "NAME":"Beardsell Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"INDIGO.BO",
+    "NAME":"InterGlobe Aviation Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"IGC.BO",
+    "NAME":"IGC Foils Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"SHK.BO",
+    "NAME":"S H Kelkar and Company Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"DASL.BO",
+    "NAME":"Deepti Alloy Steel Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"IPRU8937.BO",
+    "NAME":"ICICI PRUDENTIAL BUSINESS CYCLE FUND SERIES 2 DIRECT PLAN CUMULATIVE OPTION",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"IPRU8938.BO",
+    "NAME":"ICICI PRUDENTIAL BUSINESS CYCLE FUND SERIES 2 DIRECT PLAN DIVIDEND OPTION",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"IPRU2735.BO",
+    "NAME":"ICICI PRUDENTIAL BUSINESS CYCLE FUND SERIES 2 REGULAR PLAN CUMULATIVE OPTION",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"IPRU2736.BO",
+    "NAME":"ICICI PRUDENTIAL BUSINESS CYCLE FUND SERIES 2 REGULAR PLAN DIVIDEND OPTION",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"TFSL.BO",
+    "NAME":"Typhoon Financial Services Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"APUNKA.BO",
+    "NAME":"Apunka Invest Commercial Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"SHREEGANES.BO",
+    "NAME":"Shree Ganesh Biotech (India) Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"GTV.BO",
+    "NAME":"GTV Engineering Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"LICNETFN50.BO",
+    "NAME":"LIC NOMURA MF EXCHANGE TRADED FUND- NIFTY 50- GROWTH PLAN- GROWTH",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"PARIKSHA.BO",
+    "NAME":"Pariksha Fin- Invest- Lease Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"GEETANJ.BO",
+    "NAME":"Geetanjali Credit and Capital Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"LICNETFSEN.BO",
+    "NAME":"LIC NOMURA MF EXCHANGE TRADED FUND - SENSEX",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"TFLL.BO",
+    "NAME":"Tirupati Finlease Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"GOLDENPROP.BO",
+    "NAME":"Golden Properties &amp; Traders Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"ADHARSHILA.BO",
+    "NAME":"Adharshila Capital Services Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"SMARTFIN.BO",
+    "NAME":"Smart Finsec Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"RAJKOTINV.BO",
+    "NAME":"Rajkot Investment Trust Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"ADCON.BO",
+    "NAME":"Adcon Capital Services Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"GMLM.BO",
+    "NAME":"Gaurav Mercantiles Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"HDFCNIFETF.BO",
+    "NAME":"HDFC Mutual Fund",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"SXETF.BO",
+    "NAME":"HDFC Sensex ETF - Open Ended Traded Fund",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"UDAYJEW.BO",
+    "NAME":"Uday Jewellery Industries Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"MAYUKH.BO",
+    "NAME":"Mayukh Dealtrade Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"SHAILJA.BO",
+    "NAME":"Shailja Commercial Trade Frenzy Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"NAVIGANT.BO",
+    "NAME":"Navigant Corporate Advisors Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"GROVY.BO",
+    "NAME":"Grovy India Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"ALKEM.BO",
+    "NAME":"Alkem Laboratories Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"LALPATHLAB.BO",
+    "NAME":"Dr. Lal PathLabs Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"NAVKETAN.BO",
+    "NAME":"Navketan Merchants Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"SCTL.BO",
+    "NAME":"Suncare Traders Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"CREATIVE.BO",
+    "NAME":"Creative Castings Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"AAYUSH.BO",
+    "NAME":"Aayush Food and Herbs Ltd",
+    "EXCHANGE":"BSE"
+  },
+  {
+    "SYMBOL":"KASHIRAM.BO",
+    "NAME":"Kashiram Jain and Company Ltd",
+    "EXCHANGE":"BSE"
+  }]
+}

@@ -1,0 +1,4639 @@
+{
+"symbolList" : [
+  {
+    "SYMBOL":"PKBK",
+    "NAME":"Parke Bancorp, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PKOH",
+    "NAME":"Park-Ohio Holdings Corp. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PLAB",
+    "NAME":"Photronics, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PLAY",
+    "NAME":"Dave & Buster's Entertainment, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PLBC",
+    "NAME":"Plumas Bancorp - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PLCE",
+    "NAME":"Children's Place, Inc. (The) - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PLCM",
+    "NAME":"Polycom, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PLKI",
+    "NAME":"Popeyes Louisiana Kitchen, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PLPC",
+    "NAME":"Preformed Line Products Company - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PLPM",
+    "NAME":"Planet Payment, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PLUG",
+    "NAME":"Plug Power, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PLUS",
+    "NAME":"ePlus inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PLXS",
+    "NAME":"Plexus Corp. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PMBC",
+    "NAME":"Pacific Mercantile Bancorp - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PMD",
+    "NAME":"Psychemedics Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PME",
+    "NAME":"Pingtan Marine Enterprise Ltd. - Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PMTS",
+    "NAME":"CPI Card Group Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PNBK",
+    "NAME":"Patriot National Bancorp Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PNFP",
+    "NAME":"Pinnacle Financial Partners, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PNK",
+    "NAME":"Pinnacle Entertainment, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PNNT",
+    "NAME":"PennantPark Investment Corporation - common stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PNQI",
+    "NAME":"PowerShares Nasdaq Internet Portfolio",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PNRA",
+    "NAME":"Panera Bread Company - Class A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PNRG",
+    "NAME":"PrimeEnergy Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PNTR",
+    "NAME":"Pointer Telocation Ltd. - Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PODD",
+    "NAME":"Insulet Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"POOL",
+    "NAME":"Pool Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"POPE",
+    "NAME":"Pope Resources - Limited Partnership",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"POWI",
+    "NAME":"Power Integrations, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"POWL",
+    "NAME":"Powell Industries, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"POZN",
+    "NAME":"Pozen, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PPBI",
+    "NAME":"Pacific Premier Bancorp Inc - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PPC",
+    "NAME":"Pilgrim's Pride Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PPHM",
+    "NAME":"Peregrine Pharmaceuticals Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PPHMP",
+    "NAME":"Peregrine Pharmaceuticals Inc. - 10.50% Series E Convertible Preferred Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PPSI",
+    "NAME":"Pioneer Power Solutions, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PRAA",
+    "NAME":"PRA Group, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PRAH",
+    "NAME":"PRA Health Sciences, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PRAN",
+    "NAME":"Prana Biotechnology Ltd - American Depositary Shares each representing ten Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PRCP",
+    "NAME":"Perceptron, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PRFT",
+    "NAME":"Perficient, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PRFZ",
+    "NAME":"PowerShares FTSE RAFI US 1500 Small-Mid Portfolio",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PRGN",
+    "NAME":"Paragon Shipping Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PRGNL",
+    "NAME":"Paragon Shipping Inc. - 8.375% Senior Notes due 2021",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PRGS",
+    "NAME":"Progress Software Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PRGX",
+    "NAME":"PRGX Global, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PRIM",
+    "NAME":"Primoris Services Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PRKR",
+    "NAME":"ParkerVision, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PRMW",
+    "NAME":"Primo Water Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PROV",
+    "NAME":"Provident Financial Holdings, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PRPH",
+    "NAME":"ProPhase Labs, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PRQR",
+    "NAME":"ProQR Therapeutics N.V. - Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PRSC",
+    "NAME":"The Providence Service Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PRSS",
+    "NAME":"CafePress Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PRTA",
+    "NAME":"Prothena Corporation plc - Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PRTK",
+    "NAME":"Paratek Pharmaceuticals, Inc.  - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PRTO",
+    "NAME":"Proteon Therapeutics, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PRTS",
+    "NAME":"U.S. Auto Parts Network, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PRXI",
+    "NAME":"Premier Exhibitions, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PRXL",
+    "NAME":"PAREXEL International Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PRZM",
+    "NAME":"Prism Technologies Group, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PSAU",
+    "NAME":"PowerShares Global Gold & Precious Metals Portfolio",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PSCC",
+    "NAME":"PowerShares S&P SmallCap Consumer Staples Portfolio",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PSCD",
+    "NAME":"PowerShares S&P SmallCap Consumer Discretionary Portfolio",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PSCE",
+    "NAME":"PowerShares S&P SmallCap Energy Portfolio",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PSCF",
+    "NAME":"PowerShares S&P SmallCap Financials Portfolio",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PSCH",
+    "NAME":"PowerShares S&P SmallCap Health Care Portfolio",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PSCI",
+    "NAME":"PowerShares S&P SmallCap Industrials Portfolio",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PSCM",
+    "NAME":"PowerShares S&P SmallCap Materials Portfolio",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PSCT",
+    "NAME":"PowerShares S&P SmallCap Information Technology Portfolio",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PSCU",
+    "NAME":"PowerShares S&P SmallCap Utilities Portfolio",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PSDV",
+    "NAME":"pSivida Corp. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PSEC",
+    "NAME":"Prospect Capital Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PSIX",
+    "NAME":"Power Solutions International, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PSMT",
+    "NAME":"PriceSmart, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PSTB",
+    "NAME":"Park Sterling Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PSTI",
+    "NAME":"Pluristem Therapeutics, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PSUN",
+    "NAME":"Pacific Sunwear of California, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PTC",
+    "NAME":"PTC Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PTCT",
+    "NAME":"PTC Therapeutics, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PTEN",
+    "NAME":"Patterson-UTI Energy, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PTIE",
+    "NAME":"Pain Therapeutics - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PTLA",
+    "NAME":"Portola Pharmaceuticals, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PTNR",
+    "NAME":"Partner Communications Company Ltd. - American Depositary Shares, each representing one ordinary share",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PTSI",
+    "NAME":"P.A.M. Transportation Services, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PTX",
+    "NAME":"Pernix Therapeutics Holdings, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PTXP",
+    "NAME":"PennTex Midstream Partners, LP - Common Units Representing Limited Partnership Interests",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PUB",
+    "NAME":"People's Utah Bancorp - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PULB",
+    "NAME":"Pulaski Financial Corp. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PULM",
+    "NAME":"Pulmatrix, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PVBC",
+    "NAME":"Provident Bancorp, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PVTB",
+    "NAME":"PrivateBancorp, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PVTBP",
+    "NAME":"PrivateBancorp, Inc. - PrivateBancorp Capital Trust IV - 10% Trust Preferred",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PWOD",
+    "NAME":"Penns Woods Bancorp, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PWX",
+    "NAME":"Providence and Worcester Railroad Company - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PXLW",
+    "NAME":"Pixelworks, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PXS",
+    "NAME":"Pyxis Tankers Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PYDS",
+    "NAME":"Payment Data Systems, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PYPL",
+    "NAME":"PayPal Holdings, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"PZZA",
+    "NAME":"Papa John's International, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QABA",
+    "NAME":"First Trust NASDAQ ABA Community Bank Index Fund",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QADA",
+    "NAME":"QAD Inc. - Class A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QADB",
+    "NAME":"QAD Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QAT",
+    "NAME":"iShares MSCI Qatar Capped ETF",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QBAK",
+    "NAME":"Qualstar Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QCCO",
+    "NAME":"QC Holdings, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QCLN",
+    "NAME":"First Trust NASDAQ Clean Edge Green Energy Index Fund",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QCOM",
+    "NAME":"QUALCOMM Incorporated - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QCRH",
+    "NAME":"QCR Holdings, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QDEL",
+    "NAME":"Quidel Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QGEN",
+    "NAME":"Qiagen N.V. - Common Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QINC",
+    "NAME":"First Trust RBA Quality Income ETF",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QIWI",
+    "NAME":"QIWI plc - American Depositary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QKLS",
+    "NAME":"QKL Stores, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QLC",
+    "NAME":"FlexShares US Quality Large Cap Index Fund",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QLGC",
+    "NAME":"QLogic Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QLIK",
+    "NAME":"Qlik Technologies Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QLTI",
+    "NAME":"QLT Inc. - Common Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QLYS",
+    "NAME":"Qualys, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QNST",
+    "NAME":"QuinStreet, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QPAC",
+    "NAME":"Quinpario Acquisition Corp. 2 - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QPACU",
+    "NAME":"Quinpario Acquisition Corp. 2 - Unit",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QPACW",
+    "NAME":"Quinpario Acquisition Corp. 2 - Warrant",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QQEW",
+    "NAME":"First Trust NASDAQ-100 Equal Weighted Index Fund",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QQQ",
+    "NAME":"PowerShares QQQ Trust, Series 1",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QQQC",
+    "NAME":"Global X NASDAQ China Technology ETF",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QQQX",
+    "NAME":"Nuveen NASDAQ 100 Dynamic Overwrite Fund - Shares of Beneficial Interest",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QQXT",
+    "NAME":"First Trust NASDAQ-100 Ex-Technology Sector Index Fund",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QRHC",
+    "NAME":"Quest Resource Holding Corporation. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QRVO",
+    "NAME":"Qorvo, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QSII",
+    "NAME":"Quality Systems, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QTEC",
+    "NAME":"First Trust NASDAQ-100- Technology Index Fund",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QTNT",
+    "NAME":"Quotient Limited - Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QTWW",
+    "NAME":"Quantum Fuel Systems Technologies Worldwide, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QUIK",
+    "NAME":"QuickLogic Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QUMU",
+    "NAME":"Qumu Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QUNR",
+    "NAME":"Qunar Cayman Islands Limited - American Depositary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QURE",
+    "NAME":"uniQure N.V. - Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QVCA",
+    "NAME":"Liberty Interactive Corporation - Series A QVC Group Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QVCB",
+    "NAME":"Liberty Interactive Corporation - Series B QVC Group Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"QYLD",
+    "NAME":"Recon Capital NASDAQ-100 Covered Call ETF",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RADA",
+    "NAME":"Rada Electronics Industries Limited - Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RAIL",
+    "NAME":"Freightcar America, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RAND",
+    "NAME":"Rand Capital Corporation - Common Stock ($0.10 Par Value)",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RARE",
+    "NAME":"Ultragenyx Pharmaceutical Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RAVE",
+    "NAME":"Rave Restaurant Group, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RAVN",
+    "NAME":"Raven Industries, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RBCAA",
+    "NAME":"Republic Bancorp, Inc. - Class A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RBCN",
+    "NAME":"Rubicon Technology, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RBPAA",
+    "NAME":"Royal Bancshares of Pennsylvania, Inc. - Class A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RCII",
+    "NAME":"Rent-A-Center Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RCKY",
+    "NAME":"Rocky Brands, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RCMT",
+    "NAME":"RCM Technologies, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RCON",
+    "NAME":"Recon Technology, Ltd. - Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RDCM",
+    "NAME":"Radcom Ltd. - Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RDEN",
+    "NAME":"Elizabeth Arden, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RDHL",
+    "NAME":"Redhill Biopharma Ltd. - American Depositary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RDI",
+    "NAME":"Reading International Inc - Class A Non-voting Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RDIB",
+    "NAME":"Reading International Inc - Class B Voting Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RDNT",
+    "NAME":"RadNet, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RDUS",
+    "NAME":"Radius Health, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RDVY",
+    "NAME":"First Trust NASDAQ Rising Dividend Achievers ETF",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RDWR",
+    "NAME":"Radware Ltd. - Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RECN",
+    "NAME":"Resources Connection, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"REDF",
+    "NAME":"Rediff.com India Limited - American Depositary Shares, each represented by one-half of one equity share",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"REFR",
+    "NAME":"Research Frontiers Incorporated - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"REGI",
+    "NAME":"Renewable Energy Group, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"REGN",
+    "NAME":"Regeneron Pharmaceuticals, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"REIS",
+    "NAME":"Reis, Inc - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RELL",
+    "NAME":"Richardson Electronics, Ltd. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RELV",
+    "NAME":"Reliv' International, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RELY",
+    "NAME":"Real Industry, Inc.  - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RENT",
+    "NAME":"Rentrak Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"REPH",
+    "NAME":"Recro Pharma, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RESN",
+    "NAME":"Resonant Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"REXI",
+    "NAME":"Resource America, Inc. - Class A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"REXX",
+    "NAME":"Rex Energy Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RFIL",
+    "NAME":"RF Industries, Ltd. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RGCO",
+    "NAME":"RGC Resources Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RGEN",
+    "NAME":"Repligen Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RGLD",
+    "NAME":"Royal Gold, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RGLS",
+    "NAME":"Regulus Therapeutics Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RGNX",
+    "NAME":"REGENXBIO Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RGSE",
+    "NAME":"Real Goods Solar, Inc. - Class A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RIBT",
+    "NAME":"RiceBran Technologies - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RIBTW",
+    "NAME":"RiceBran Technologies - Warrant",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RICK",
+    "NAME":"RCI Hospitality Holdings, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RIGL",
+    "NAME":"Rigel Pharmaceuticals, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RILY",
+    "NAME":"B. Riley Financial, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RITT",
+    "NAME":"RIT Technologies Ltd. - ordinary shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RITTW",
+    "NAME":"RIT Technologies Ltd. - Warrants",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RIVR",
+    "NAME":"River Valley Bancorp. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RJET",
+    "NAME":"Republic Airways Holdings, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RKDA",
+    "NAME":"Arcadia Biosciences, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RLJE",
+    "NAME":"RLJ Entertainment, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RLOC",
+    "NAME":"ReachLocal, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RLOG",
+    "NAME":"Rand Logistics, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RLYP",
+    "NAME":"Relypsa, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RMBS",
+    "NAME":"Rambus, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RMCF",
+    "NAME":"Rocky Mountain Chocolate Factory, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RMGN",
+    "NAME":"RMG Networks Holding Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RMR",
+    "NAME":"The RMR Group Inc. - Class A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RMTI",
+    "NAME":"Rockwell Medical, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RNET",
+    "NAME":"RigNet, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RNST",
+    "NAME":"Renasant Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RNVA",
+    "NAME":"Rennova Health, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RNVAW",
+    "NAME":"Rennova Health, Inc. - Warrant",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RNWK",
+    "NAME":"RealNetworks, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ROBO",
+    "NAME":"Robo-Stox Global Robotics and Automation Index ETF",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ROCK",
+    "NAME":"Gibraltar Industries, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ROIA",
+    "NAME":"Radio One, Inc. - Class A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ROIAK",
+    "NAME":"Radio One, Inc. - Class D Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ROIC",
+    "NAME":"Retail Opportunity Investments Corp. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ROKA",
+    "NAME":"Roka Bioscience, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ROLL",
+    "NAME":"RBC Bearings Incorporated - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ROSG",
+    "NAME":"Rosetta Genomics Ltd. - ordinary shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ROST",
+    "NAME":"Ross Stores, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ROVI",
+    "NAME":"Rovi Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RP",
+    "NAME":"RealPage, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RPD",
+    "NAME":"Rapid7, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RPRX",
+    "NAME":"Repros Therapeutics Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RPRXW",
+    "NAME":"Repros Therapeutics Inc. - Series A Warrant",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RPRXZ",
+    "NAME":"Repros Therapeutics Inc. - Series B warrant",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RPTP",
+    "NAME":"Raptor Pharmaceutical Corp. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RPXC",
+    "NAME":"RPX Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RRD",
+    "NAME":"R.R. Donnelley & Sons Company - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RRGB",
+    "NAME":"Red Robin Gourmet Burgers, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RRM",
+    "NAME":"RR Media Ltd. - Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RSTI",
+    "NAME":"Rofin-Sinar Technologies, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RSYS",
+    "NAME":"RadiSys Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RTIX",
+    "NAME":"RTI Surgical, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RTK",
+    "NAME":"Rentech, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RTRX",
+    "NAME":"Retrophin, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RTTR",
+    "NAME":"Ritter Pharmaceuticals, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RUN",
+    "NAME":"Sunrun Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RUSHA",
+    "NAME":"Rush Enterprises, Inc. - Class A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RUSHB",
+    "NAME":"Rush Enterprises, Inc. - Class B Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RUTH",
+    "NAME":"Ruth's Hospitality Group, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RVLT",
+    "NAME":"Revolution Lighting Technologies, Inc. - Class A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RVNC",
+    "NAME":"Revance Therapeutics, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RVSB",
+    "NAME":"Riverview Bancorp Inc - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RWLK",
+    "NAME":"ReWalk Robotics Ltd - Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RXDX",
+    "NAME":"Ignyta, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RXII",
+    "NAME":"RXi Pharmaceuticals Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"RYAAY",
+    "NAME":"Ryanair Holdings plc - American Depositary Shares, each representing five Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SAAS",
+    "NAME":"inContact, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SABR",
+    "NAME":"Sabre Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SAEX",
+    "NAME":"SAExploration Holdings, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SAFM",
+    "NAME":"Sanderson Farms, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SAFT",
+    "NAME":"Safety Insurance Group, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SAGE",
+    "NAME":"Sage Therapeutics, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SAIA",
+    "NAME":"Saia, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SAJA",
+    "NAME":"Sajan, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SAL",
+    "NAME":"Salisbury Bancorp, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SALE",
+    "NAME":"RetailMeNot, Inc. - Series 1 Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SALM",
+    "NAME":"Salem Media Group, Inc. - Class A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SAMG",
+    "NAME":"Silvercrest Asset Management Group Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SANM",
+    "NAME":"Sanmina Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SANW",
+    "NAME":"S&W Seed Company - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SASR",
+    "NAME":"Sandy Spring Bancorp, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SATS",
+    "NAME":"EchoStar Corporation - common stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SAUC",
+    "NAME":"Diversified Restaurant Holdings, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SAVE",
+    "NAME":"Spirit Airlines, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SBAC",
+    "NAME":"SBA Communications Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SBBP",
+    "NAME":"Strongbridge Biopharma plc - Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SBBX",
+    "NAME":"Sussex Bancorp - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SBCF",
+    "NAME":"Seacoast Banking Corporation of Florida - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SBCP",
+    "NAME":"Sunshine Bancorp, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SBFG",
+    "NAME":"SB Financial Group, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SBFGP",
+    "NAME":"SB Financial Group, Inc. - Depositary Shares each representing a 1/100th interest in a 6.50% Noncumulative convertible perpetual preferred share, Series A",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SBGI",
+    "NAME":"Sinclair Broadcast Group, Inc. - Class A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SBLK",
+    "NAME":"Star Bulk Carriers Corp. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SBLKL",
+    "NAME":"Star Bulk Carriers Corp. - 8.00% Senior Notes Due 2019",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SBNY",
+    "NAME":"Signature Bank - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SBNYW",
+    "NAME":"Signature Bank - Warrants 12/12/2018",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SBOT",
+    "NAME":"Stellar Biotechnologies, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SBRA",
+    "NAME":"Sabra Healthcare REIT, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SBRAP",
+    "NAME":"Sabra Healthcare REIT, Inc. - 7.125% Preferred Series A (United States)",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SBSA",
+    "NAME":"Spanish Broadcasting System, Inc. - Class A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SBSI",
+    "NAME":"Southside Bancshares, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SBUX",
+    "NAME":"Starbucks Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SCAI",
+    "NAME":"Surgical Care Affiliates, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SCHL",
+    "NAME":"Scholastic Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SCHN",
+    "NAME":"Schnitzer Steel Industries, Inc. - Class A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SCLN",
+    "NAME":"SciClone Pharmaceuticals, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SCMP",
+    "NAME":"Sucampo Pharmaceuticals, Inc. - Class A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SCON",
+    "NAME":"Superconductor Technologies Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SCOR",
+    "NAME":"comScore, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SCSC",
+    "NAME":"ScanSource, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SCSS",
+    "NAME":"Select Comfort Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SCTY",
+    "NAME":"SolarCity Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SCVL",
+    "NAME":"Shoe Carnival, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SCYX",
+    "NAME":"SCYNEXIS, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SEAC",
+    "NAME":"SeaChange International, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SEDG",
+    "NAME":"SolarEdge Technologies, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SEED",
+    "NAME":"Origin Agritech Limited - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SEIC",
+    "NAME":"SEI Investments Company - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SELF",
+    "NAME":"Self Storage Group, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SEMI",
+    "NAME":"SunEdison Semiconductor Limited - Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SENEA",
+    "NAME":"Seneca Foods Corp. - Class A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SENEB",
+    "NAME":"Seneca Foods Corp. - Class B Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SEV",
+    "NAME":"Sevcon, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SFBC",
+    "NAME":"Sound Financial Bancorp, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SFBS",
+    "NAME":"ServisFirst Bancshares, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SFLY",
+    "NAME":"Shutterfly, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SFM",
+    "NAME":"Sprouts Farmers Market, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SFNC",
+    "NAME":"Simmons First National Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SFST",
+    "NAME":"Southern First Bancshares, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SFXE",
+    "NAME":"SFX Entertainment, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SGBK",
+    "NAME":"Stonegate Bank - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SGC",
+    "NAME":"Superior Uniform Group, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SGEN",
+    "NAME":"Seattle Genetics, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SGI",
+    "NAME":"Silicon Graphics International Corp - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SGMA",
+    "NAME":"SigmaTron International, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SGMO",
+    "NAME":"Sangamo BioSciences, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SGMS",
+    "NAME":"Scientific Games Corp - Class A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SGNL",
+    "NAME":"Signal Genetics, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SGNT",
+    "NAME":"Sagent Pharmaceuticals, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SGOC",
+    "NAME":"SGOCO Group, Ltd - Ordinary Shares (Cayman Islands)",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SGRP",
+    "NAME":"SPAR Group, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SGRY",
+    "NAME":"Surgery Partners, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SGYP",
+    "NAME":"Synergy Pharmaceuticals, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SGYPU",
+    "NAME":"Synergy Pharmaceuticals, Inc. - Unit",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SGYPW",
+    "NAME":"Synergy Pharmaceuticals, Inc. - Warrants",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SHBI",
+    "NAME":"Shore Bancshares Inc - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SHEN",
+    "NAME":"Shenandoah Telecommunications Co - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SHIP",
+    "NAME":"Seanergy Maritime Holdings Corp - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SHLD",
+    "NAME":"Sears Holdings Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SHLDW",
+    "NAME":"Sears Holdings Corporation - Warrant",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SHLM",
+    "NAME":"A. Schulman, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SHLO",
+    "NAME":"Shiloh Industries, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SHOO",
+    "NAME":"Steven Madden, Ltd. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SHOR",
+    "NAME":"ShoreTel, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SHOS",
+    "NAME":"Sears Hometown and Outlet Stores, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SHPG",
+    "NAME":"Shire plc - American Depositary Shares, each representing three Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SHSP",
+    "NAME":"SharpSpring, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SIEB",
+    "NAME":"Siebert Financial Corp. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SIEN",
+    "NAME":"Sientra, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SIFI",
+    "NAME":"SI Financial Group, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SIFY",
+    "NAME":"Sify Technologies Limited - American Depository Shares, each represented by one Equity Share",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SIGI",
+    "NAME":"Selective Insurance Group, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SIGM",
+    "NAME":"Sigma Designs, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SILC",
+    "NAME":"Silicom Ltd - Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SIMO",
+    "NAME":"Silicon Motion Technology Corporation - American Depositary Shares, each representing four ordinary shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SINA",
+    "NAME":"Sina Corporation - Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SINO",
+    "NAME":"Sino-Global Shipping America, Ltd. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SIRI",
+    "NAME":"Sirius XM Holdings Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SIRO",
+    "NAME":"Sirona Dental Systems, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SITO",
+    "NAME":"SITO Mobile, Ltd. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SIVB",
+    "NAME":"SVB Financial Group - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SIVBO",
+    "NAME":"SVB Financial Group - 7% Cumulative Trust Preferred Securities - SVB Capital II",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SIXD",
+    "NAME":"6D Global Technologies, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SKIS",
+    "NAME":"Peak Resorts, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SKLN",
+    "NAME":"Skyline Medical Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SKLNU",
+    "NAME":"Skyline Medical Inc. - Unit",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SKOR",
+    "NAME":"FlexShares Credit-Scored US Corporate Bond Index Fund",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SKUL",
+    "NAME":"Skullcandy, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SKYS",
+    "NAME":"Sky Solar Holdings, Ltd. - American Depositary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SKYW",
+    "NAME":"SkyWest, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SKYY",
+    "NAME":"First Trust ISE Cloud Computing Index Fund",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SLAB",
+    "NAME":"Silicon Laboratories, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SLCT",
+    "NAME":"Select Bancorp, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SLGN",
+    "NAME":"Silgan Holdings Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SLM",
+    "NAME":"SLM Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SLMAP",
+    "NAME":"SLM Corporation - 6.97% Cumulative Redeemable Preferred Stock, Series A",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SLMBP",
+    "NAME":"SLM Corporation - Floating Rate Non-Cumulative Preferred Stock, Series B",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SLP",
+    "NAME":"Simulations Plus, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SLRC",
+    "NAME":"Solar Capital Ltd. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SLTD",
+    "NAME":"Solar3D, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SLVO",
+    "NAME":"Credit Suisse AG - Credit Suisse Silver Shares Covered Call Exchange Traded Notes",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SMBC",
+    "NAME":"Southern Missouri Bancorp, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SMBK",
+    "NAME":"SmartFinancial, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SMCI",
+    "NAME":"Super Micro Computer, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SMCP",
+    "NAME":"AlphaMark Actively Managed Small Cap ETF",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SMED",
+    "NAME":"Sharps Compliance Corp - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SMIT",
+    "NAME":"Schmitt Industries, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SMLR",
+    "NAME":"Semler Scientific, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SMMF",
+    "NAME":"Summit Financial Group, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SMMT",
+    "NAME":"Summit Therapeutics plc - American Depositary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SMRT",
+    "NAME":"Stein Mart, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SMSI",
+    "NAME":"Smith Micro Software, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SMT",
+    "NAME":"SMART Technologies Inc. - Common Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SMTC",
+    "NAME":"Semtech Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SMTX",
+    "NAME":"SMTC Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SNAK",
+    "NAME":"Inventure Foods, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SNBC",
+    "NAME":"Sun Bancorp, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SNC",
+    "NAME":"State National Companies, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SNCR",
+    "NAME":"Synchronoss Technologies, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SNDK",
+    "NAME":"SanDisk Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SNFCA",
+    "NAME":"Security National Financial Corporation - Class A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SNHY",
+    "NAME":"Sun Hydraulics Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SNMX",
+    "NAME":"Senomyx, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SNPS",
+    "NAME":"Synopsys, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SNSS",
+    "NAME":"Sunesis Pharmaceuticals, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SNTA",
+    "NAME":"Synta Pharmaceuticals Corp. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SOCB",
+    "NAME":"Southcoast Financial Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SOCL",
+    "NAME":"Global X Social Media Index ETF",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SODA",
+    "NAME":"SodaStream International Ltd. - Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SOFO",
+    "NAME":"Sonic Foundry, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SOHO",
+    "NAME":"Sotherly Hotels Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SOHOL",
+    "NAME":"Sotherly Hotels LP - 8.00% Senior Unsecured Notes Due 2018",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SOHOM",
+    "NAME":"Sotherly Hotels LP - 7.00% Senior Notes",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SOHU",
+    "NAME":"Sohu.com Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SONA",
+    "NAME":"Southern National Bancorp of Virginia, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SONC",
+    "NAME":"Sonic Corp. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SONS",
+    "NAME":"Sonus Networks, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SORL",
+    "NAME":"SORL Auto Parts, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SOXX",
+    "NAME":"iShares PHLX SOX Semiconductor Sector Index Fund",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SP",
+    "NAME":"SP Plus Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SPAN",
+    "NAME":"Span-America Medical Systems, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SPAR",
+    "NAME":"Spartan Motors, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SPCB",
+    "NAME":"SuperCom, Ltd. - Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SPEX",
+    "NAME":"Spherix Incorporated - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SPHS",
+    "NAME":"Sophiris Bio, Inc. - Common Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SPI",
+    "NAME":"SPI Energy Co., Ltd. - American Depositary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SPIL",
+    "NAME":"Siliconware Precision Industries Company, Ltd. - ADS represents common shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SPKE",
+    "NAME":"Spark Energy, Inc. - Class A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SPLK",
+    "NAME":"Splunk Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SPLS",
+    "NAME":"Staples, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SPNC",
+    "NAME":"The Spectranetics Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SPNE",
+    "NAME":"SeaSpine Holdings Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SPNS",
+    "NAME":"Sapiens International Corporation N.V. - Common Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SPOK",
+    "NAME":"Spok Holdings, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SPPI",
+    "NAME":"Spectrum Pharmaceuticals, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SPRT",
+    "NAME":"support.com, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SPSC",
+    "NAME":"SPS Commerce, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SPTN",
+    "NAME":"SpartanNash Company - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SPU",
+    "NAME":"SkyPeople Fruit Juice, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SPWH",
+    "NAME":"Sportsman's Warehouse Holdings, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SPWR",
+    "NAME":"SunPower Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SQBG",
+    "NAME":"Sequential Brands Group, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SQI",
+    "NAME":"SciQuest, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SQNM",
+    "NAME":"Sequenom, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SQQQ",
+    "NAME":"ProShares UltraPro Short QQQ",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SRCE",
+    "NAME":"1st Source Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SRCL",
+    "NAME":"Stericycle, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SRCLP",
+    "NAME":"Stericycle, Inc. - Depository Receipt",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SRDX",
+    "NAME":"SurModics, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SRET",
+    "NAME":"Global X SuperDividend REIT ETF",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SREV",
+    "NAME":"ServiceSource International, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SRNE",
+    "NAME":"Sorrento Therapeutics, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SRPT",
+    "NAME":"Sarepta Therapeutics, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SRSC",
+    "NAME":"Sears Canada Inc.  - Common Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SSB",
+    "NAME":"South State Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SSBI",
+    "NAME":"Summit State Bank - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SSFN",
+    "NAME":"Stewardship Financial Corp - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SSH",
+    "NAME":"Sunshine Heart Inc - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SSKN",
+    "NAME":"Strata Skin Sciences, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SSNC",
+    "NAME":"SS&C Technologies Holdings, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SSRG",
+    "NAME":"Symmetry Surgical Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SSRI",
+    "NAME":"Silver Standard Resources Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SSYS",
+    "NAME":"Stratasys, Ltd. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"STAA",
+    "NAME":"STAAR Surgical Company - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"STAF",
+    "NAME":"Staffing 360 Solutions, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"STB",
+    "NAME":"Student Transportation Inc - Common shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"STBA",
+    "NAME":"S&T Bancorp, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"STBZ",
+    "NAME":"State Bank Financial Corporation. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"STCK",
+    "NAME":"BMC Stock Holdings, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"STDY",
+    "NAME":"SteadyMed Ltd. - Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"STEM",
+    "NAME":"StemCells, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"STFC",
+    "NAME":"State Auto Financial Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"STKL",
+    "NAME":"SunOpta, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"STKS",
+    "NAME":"The ONE Group Hospitality, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"STLD",
+    "NAME":"Steel Dynamics, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"STLY",
+    "NAME":"Stanley Furniture Company, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"STML",
+    "NAME":"Stemline Therapeutics, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"STMP",
+    "NAME":"Stamps.com Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"STPP",
+    "NAME":"Barclays PLC - iPath US Treasury Steepener ETN",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"STRA",
+    "NAME":"Strayer Education, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"STRL",
+    "NAME":"Sterling Construction Company Inc - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"STRM",
+    "NAME":"Streamline Health Solutions, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"STRS",
+    "NAME":"Stratus Properties, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"STRT",
+    "NAME":"Strattec Security Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"STRZA",
+    "NAME":"Starz - Series A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"STRZB",
+    "NAME":"Starz - Series B Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"STX",
+    "NAME":"Seagate Technology PLC - Ordinary Shares (Ireland)",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"STXS",
+    "NAME":"Stereotaxis, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SUMR",
+    "NAME":"Summer Infant, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SUNS",
+    "NAME":"Solar Senior Capital Ltd. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SUPN",
+    "NAME":"Supernus Pharmaceuticals, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SVA",
+    "NAME":"Sinovac Biotech, Ltd. - Ordinary Shares (Antigua/Barbudo)",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SVBI",
+    "NAME":"Severn Bancorp Inc - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SVVC",
+    "NAME":"Firsthand Technology Value Fund, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SWHC",
+    "NAME":"Smith & Wesson Holding Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SWIR",
+    "NAME":"Sierra Wireless, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SWKS",
+    "NAME":"Skyworks Solutions, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SXCL",
+    "NAME":"Steel Excel Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SYBT",
+    "NAME":"Stock Yards Bancorp, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SYKE",
+    "NAME":"Sykes Enterprises, Incorporated - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SYMC",
+    "NAME":"Symantec Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SYMX",
+    "NAME":"Synthesis Energy Systems, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SYNA",
+    "NAME":"Synaptics Incorporated - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SYNC",
+    "NAME":"Synacor, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SYNL",
+    "NAME":"Synalloy Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SYNT",
+    "NAME":"Syntel, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SYPR",
+    "NAME":"Sypris Solutions, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SYRX",
+    "NAME":"Sysorex Global - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SYUT",
+    "NAME":"Synutra International, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SZMK",
+    "NAME":"Sizmek Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"SZYM",
+    "NAME":"Solazyme, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TACO",
+    "NAME":"Del Taco Restaurants, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TACOW",
+    "NAME":"Del Taco Restaurants, Inc. - Warrants",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TACT",
+    "NAME":"TransAct Technologies Incorporated - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TAIT",
+    "NAME":"Taitron Components Incorporated - Class A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TANH",
+    "NAME":"Tantech Holdings Ltd. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TAPR",
+    "NAME":"Barclays PLC - Barclays Inverse US Treasury Composite ETN",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TASR",
+    "NAME":"TASER International, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TAST",
+    "NAME":"Carrols Restaurant Group, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TATT",
+    "NAME":"TAT Technologies Ltd. - Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TAX",
+    "NAME":"Liberty Tax, Inc. - Class A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TAXI",
+    "NAME":"Medallion Financial Corp. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TAYD",
+    "NAME":"Taylor Devices, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TBBK",
+    "NAME":"The Bancorp, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TBIO",
+    "NAME":"Transgenomic, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TBK",
+    "NAME":"Triumph Bancorp, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TBNK",
+    "NAME":"Territorial Bancorp Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TBPH",
+    "NAME":"Theravance Biopharma, Inc. - Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TBRA",
+    "NAME":"Tobira Therapeutics, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TCBI",
+    "NAME":"Texas Capital Bancshares, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TCBIL",
+    "NAME":"Texas Capital Bancshares, Inc. - 6.50% Subordinated Notes due 2042",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TCBIP",
+    "NAME":"Texas Capital Bancshares, Inc. - Non Cumulative Preferred Perpetual Stock Series A",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TCBIW",
+    "NAME":"Texas Capital Bancshares, Inc. - Warrants 01/16/2019",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TCBK",
+    "NAME":"TriCo Bancshares - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TCCO",
+    "NAME":"Technical Communications Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TCFC",
+    "NAME":"The Community Financial Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TCON",
+    "NAME":"TRACON Pharmaceuticals, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TCPC",
+    "NAME":"TCP Capital Corp. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TCRD",
+    "NAME":"THL Credit, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TCX",
+    "NAME":"Tucows Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TDIV",
+    "NAME":"First Trust NASDAQ Technology Dividend Index Fund",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TEAM",
+    "NAME":"Atlassian Corporation Plc - Class A Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TEAR",
+    "NAME":"TearLab Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TECD",
+    "NAME":"Tech Data Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TECH",
+    "NAME":"Bio-Techne Corp - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TEDU",
+    "NAME":"Tarena International, Inc. - American Depositary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TENX",
+    "NAME":"Tenax Therapeutics, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TERP",
+    "NAME":"TerraForm Power, Inc. - Class A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TESO",
+    "NAME":"Tesco Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TESS",
+    "NAME":"TESSCO Technologies Incorporated - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TFM",
+    "NAME":"The Fresh Market, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TFSC",
+    "NAME":"1347 Capital Corp. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TFSCR",
+    "NAME":"1347 Capital Corp. - Right",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TFSCU",
+    "NAME":"1347 Capital Corp. - Unit",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TFSCW",
+    "NAME":"1347 Capital Corp. - Warrant",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TFSL",
+    "NAME":"TFS Financial Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TGA",
+    "NAME":"Transglobe Energy Corp - Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TGEN",
+    "NAME":"Tecogen Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TGLS",
+    "NAME":"Tecnoglass Inc. - Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TGTX",
+    "NAME":"TG Therapeutics, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"THFF",
+    "NAME":"First Financial Corporation Indiana - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"THLD",
+    "NAME":"Threshold Pharmaceuticals, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"THRM",
+    "NAME":"Gentherm Inc - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"THST",
+    "NAME":"Truett-Hurst, Inc. - Class A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TICC",
+    "NAME":"TICC Capital Corp. - Closed End Fund",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TIL",
+    "NAME":"Till Capital Ltd. - Restricted Voting Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TILE",
+    "NAME":"Interface, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TINY",
+    "NAME":"Harris & Harris Group, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TIPT",
+    "NAME":"Tiptree Financial Inc. - Class A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TISA",
+    "NAME":"Top Image Systems, Ltd. - Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TITN",
+    "NAME":"Titan Machinery Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TIVO",
+    "NAME":"TiVo Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TKAI",
+    "NAME":"Tokai Pharmaceuticals, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TLF",
+    "NAME":"Tandy Leather Factory, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TLGT",
+    "NAME":"Teligent, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TLMR",
+    "NAME":"Talmer Bancorp, Inc. - Class A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TLOG",
+    "NAME":"TetraLogic Pharmaceuticals Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TMUS",
+    "NAME":"T-Mobile US, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TMUSP",
+    "NAME":"T-Mobile US, Inc. - 5.50% Mandatory Convertible Preferred Stock, Series A",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TNAV",
+    "NAME":"Telenav, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TNDM",
+    "NAME":"Tandem Diabetes Care, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TNGO",
+    "NAME":"Tangoe, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TNXP",
+    "NAME":"Tonix Pharmaceuticals Holding Corp. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TOPS",
+    "NAME":"TOP Ships Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TOR",
+    "NAME":"Sutor Technology Group Limited - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TORM",
+    "NAME":"TOR Minerals International Inc - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TOUR",
+    "NAME":"Tuniu Corporation - American Depositary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TOWN",
+    "NAME":"Towne Bank - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TQQQ",
+    "NAME":"ProShares UltraPro QQQ",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TRCB",
+    "NAME":"Two River Bancorp - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TRCH",
+    "NAME":"Torchlight Energy Resources, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TREE",
+    "NAME":"LendingTree, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TRIB",
+    "NAME":"Trinity Biotech plc - American Depositary Shares each representing 4 A Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TRIL",
+    "NAME":"Trillium Therapeutics Inc. - Common Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TRIP",
+    "NAME":"TripAdvisor, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TRIV",
+    "NAME":"TriVascular Technologies, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TRMB",
+    "NAME":"Trimble Navigation Limited - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TRMK",
+    "NAME":"Trustmark Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TRNS",
+    "NAME":"Transcat, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TROV",
+    "NAME":"TrovaGene, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TROVU",
+    "NAME":"TrovaGene, Inc. - Unit",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TROVW",
+    "NAME":"TrovaGene, Inc. - Warrant",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TROW",
+    "NAME":"T. Rowe Price Group, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TRS",
+    "NAME":"TriMas Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TRST",
+    "NAME":"TrustCo Bank Corp NY - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TRTL",
+    "NAME":"Terrapin 3 Acquisition Corporation - Class A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TRTLU",
+    "NAME":"Terrapin 3 Acquisition Corporation - Units",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TRTLW",
+    "NAME":"Terrapin 3 Acquisition Corporation - Warrants",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TRUE",
+    "NAME":"TrueCar, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TRVN",
+    "NAME":"Trevena, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TSBK",
+    "NAME":"Timberland Bancorp, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TSC",
+    "NAME":"TriState Capital Holdings, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TSCO",
+    "NAME":"Tractor Supply Company - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TSEM",
+    "NAME":"Tower Semiconductor Ltd. - Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TSLA",
+    "NAME":"Tesla Motors, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TSRA",
+    "NAME":"Tessera Technologies, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TSRI",
+    "NAME":"TSR, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TSRO",
+    "NAME":"TESARO, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TST",
+    "NAME":"TheStreet, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TSYS",
+    "NAME":"TeleCommunication Systems, Inc. - Class A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TTEC",
+    "NAME":"TeleTech Holdings, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TTEK",
+    "NAME":"Tetra Tech, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TTGT",
+    "NAME":"TechTarget, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TTHI",
+    "NAME":"Transition Therapeutics, Inc. - Ordinary Shares (Canada)",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TTMI",
+    "NAME":"TTM Technologies, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TTNP",
+    "NAME":"Titan Pharmaceuticals, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TTOO",
+    "NAME":"T2 Biosystems, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TTPH",
+    "NAME":"Tetraphase Pharmaceuticals, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TTS",
+    "NAME":"Tile Shop Hldgs, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TTWO",
+    "NAME":"Take-Two Interactive Software, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TUBE",
+    "NAME":"TubeMogul, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TUES",
+    "NAME":"Tuesday Morning Corp. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TUSA",
+    "NAME":"First Trust Total US Market AlphaDEX ETF",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TUTI",
+    "NAME":"Tuttle Tactical Management Multi-Strategy Income ETF",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TUTT",
+    "NAME":"Tuttle Tactical Management U.S. Core ETF",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TVIX",
+    "NAME":"Credit Suisse AG - VelocityShares Daily 2x VIX Short Term ETN",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TVIZ",
+    "NAME":"Credit Suisse AG - VelocityShares Daily 2x VIX Medium Term ETN",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TWER",
+    "NAME":"Towerstream Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TWIN",
+    "NAME":"Twin Disc, Incorporated - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TWMC",
+    "NAME":"Trans World Entertainment Corp. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TWOU",
+    "NAME":"2U, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TXN",
+    "NAME":"Texas Instruments Incorporated - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TXRH",
+    "NAME":"Texas Roadhouse, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TYPE",
+    "NAME":"Monotype Imaging Holdings Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"TZOO",
+    "NAME":"Travelzoo Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UACL",
+    "NAME":"Universal Truckload Services, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UAE",
+    "NAME":"iShares MSCI UAE Capped ETF",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UBCP",
+    "NAME":"United Bancorp, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UBFO",
+    "NAME":"United Security Bancshares - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UBIC",
+    "NAME":"UBIC, Inc. - American Depositary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UBIO",
+    "NAME":"Proshares UltraPro Nasdaq Biotechnology",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UBND",
+    "NAME":"WisdomTree Western Asset Unconstrained Bond Fund",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UBNK",
+    "NAME":"United Financial Bancorp, Inc.  - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UBNT",
+    "NAME":"Ubiquiti Networks, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UBOH",
+    "NAME":"United Bancshares, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UBSH",
+    "NAME":"Union Bankshares Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UBSI",
+    "NAME":"United Bankshares, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UCBA",
+    "NAME":"United Community Bancorp - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UCBI",
+    "NAME":"United Community Banks, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UCFC",
+    "NAME":"United Community Financial Corp. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UCTT",
+    "NAME":"Ultra Clean Holdings, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UDBI",
+    "NAME":"Legg Mason US Diversified Core ETF",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UDF",
+    "NAME":"United Development Funding IV - Common Shares of Beneficial Interest",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UEIC",
+    "NAME":"Universal Electronics Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UEPS",
+    "NAME":"Net 1 UEPS Technologies, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UFCS",
+    "NAME":"United Fire Group, Inc - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UFPI",
+    "NAME":"Universal Forest Products, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UFPT",
+    "NAME":"UFP Technologies, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UG",
+    "NAME":"United-Guardian, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UGLD",
+    "NAME":"Credit Suisse AG - VelocityShares 3x Long Gold ETN",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UHAL",
+    "NAME":"Amerco - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UIHC",
+    "NAME":"United Insurance Holdings Corp. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UK",
+    "NAME":"Recon Capital FTSE 100 ETF",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ULBI",
+    "NAME":"Ultralife Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ULTA",
+    "NAME":"Ulta Salon, Cosmetics & Fragrance, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ULTI",
+    "NAME":"The Ultimate Software Group, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ULTR",
+    "NAME":"Ultrapetrol (Bahamas) Limited - common stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UMBF",
+    "NAME":"UMB Financial Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UMPQ",
+    "NAME":"Umpqua Holdings Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UNAM",
+    "NAME":"Unico American Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UNB",
+    "NAME":"Union Bankshares, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UNFI",
+    "NAME":"United Natural Foods, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UNIS",
+    "NAME":"Unilife Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UNTD",
+    "NAME":"United Online, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UNTY",
+    "NAME":"Unity Bancorp, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UNXL",
+    "NAME":"Uni-Pixel, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UPIP",
+    "NAME":"Unwired Planet, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UPLD",
+    "NAME":"Upland Software, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"URBN",
+    "NAME":"Urban Outfitters, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"URRE",
+    "NAME":"Uranium Resources, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"USAK",
+    "NAME":"USA Truck, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"USAP",
+    "NAME":"Universal Stainless & Alloy Products, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"USAT",
+    "NAME":"USA Technologies, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"USATP",
+    "NAME":"USA Technologies, Inc. - Preferred Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"USBI",
+    "NAME":"United Security Bancshares, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"USCR",
+    "NAME":"U S Concrete, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"USEG",
+    "NAME":"U.S. Energy Corp. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"USLB",
+    "NAME":"PowerShares Russell 1000 Low Beta Equal Weight Portfolio",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"USLM",
+    "NAME":"United States Lime & Minerals, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"USLV",
+    "NAME":"Credit Suisse AG - VelocityShares 3x Long Silver ETN",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"USMD",
+    "NAME":"USMD Holdings, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UTEK",
+    "NAME":"Ultratech, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UTES",
+    "NAME":"Reaves Utilities ETF",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UTHR",
+    "NAME":"United Therapeutics Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UTIW",
+    "NAME":"UTi Worldwide Inc. - Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UTMD",
+    "NAME":"Utah Medical Products, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UTSI",
+    "NAME":"UTStarcom Holdings Corp - Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"UVSP",
+    "NAME":"Univest Corporation of Pennsylvania - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VA",
+    "NAME":"Virgin America Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VALU",
+    "NAME":"Value Line, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VALX",
+    "NAME":"Validea Market Legends ETF",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VASC",
+    "NAME":"Vascular Solutions, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VBFC",
+    "NAME":"Village Bank and Trust Financial Corp. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VBIV",
+    "NAME":"VBI Vaccines Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VBLT",
+    "NAME":"Vascular Biogenics Ltd. - Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VBND",
+    "NAME":"Vident Core U.S. Bond Strategy Fund",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VBTX",
+    "NAME":"Veritex Holdings, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VCEL",
+    "NAME":"Vericel Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VCIT",
+    "NAME":"Vanguard Intermediate-Term Corporate Bond ETF",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VCLT",
+    "NAME":"Vanguard Long-Term Corporate Bond ETF",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VCSH",
+    "NAME":"Vanguard Short-Term Corporate Bond ETF",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VCYT",
+    "NAME":"Veracyte, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VDSI",
+    "NAME":"VASCO Data Security International, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VDTH",
+    "NAME":"Videocon d2h Limited - American Depositary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VECO",
+    "NAME":"Veeco Instruments Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VGGL",
+    "NAME":"Viggle Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VGIT",
+    "NAME":"Vanguard Intermediate -Term Government Bond ETF",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VGLT",
+    "NAME":"Vanguard Long-Term Government Bond ETF",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VGSH",
+    "NAME":"Vanguard Short-Term Government ETF",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VIA",
+    "NAME":"Viacom Inc. - Class A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VIAB",
+    "NAME":"Viacom Inc. - Class B Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VIAV",
+    "NAME":"Viavi Solutions Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VICL",
+    "NAME":"Vical Incorporated - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VICR",
+    "NAME":"Vicor Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VIDI",
+    "NAME":"Vident International Equity Fund",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VIIX",
+    "NAME":"Credit Suisse AG - VelocityShares VIX Short Term ETN",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VIIZ",
+    "NAME":"Credit Suisse AG - VelocityShares VIX Medium Term ETN",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VIP",
+    "NAME":"VimpelCom Ltd. - American Depositary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VIRC",
+    "NAME":"Virco Manufacturing Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VIRT",
+    "NAME":"Virtu Financial, Inc. - Class A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VISN",
+    "NAME":"VisionChina Media, Inc. - American Depositary Shares, each representing 20 common shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VIVO",
+    "NAME":"Meridian Bioscience Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VKTX",
+    "NAME":"Viking Therapeutics, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VLGEA",
+    "NAME":"Village Super Market, Inc. - Class A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VLTC",
+    "NAME":"Voltari Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VMBS",
+    "NAME":"Vanguard Mortgage-Backed Securities ETF",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VNDA",
+    "NAME":"Vanda Pharmaceuticals Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VNET",
+    "NAME":"21Vianet Group, Inc. - American Depositary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VNOM",
+    "NAME":"Viper Energy Partners LP - Common Unit",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VNQI",
+    "NAME":"Vanguard Global ex-U.S. Real Estate ETF",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VNR",
+    "NAME":"Vanguard Natural Resources LLC - Common Units",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VNRAP",
+    "NAME":"Vanguard Natural Resources LLC - 7.875% Series A Cumulative Redeemable Perpetual Preferred Unit",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VNRBP",
+    "NAME":"Vanguard Natural Resources LLC - 7.625% Series B Cumulative Redeemable Perpetual Preferred Unit",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VNRCP",
+    "NAME":"Vanguard Natural Resources LLC - 7.75% Series C Cumulative Redeemable Perpetual Preferred Unit",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VOD",
+    "NAME":"Vodafone Group Plc - American Depositary Shares each representing ten Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VONE",
+    "NAME":"Vanguard Russell 1000 ETF",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VONG",
+    "NAME":"Vanguard Russell 1000 Growth ETF",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VONV",
+    "NAME":"Vanguard Russell 1000 Value ETF",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VOXX",
+    "NAME":"VOXX International Corporation - Class A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VPCO",
+    "NAME":"Vapor Corp. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VPCOU",
+    "NAME":"Vapor Corp. - Unit",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VRA",
+    "NAME":"Vera Bradley, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VRML",
+    "NAME":"Vermillion, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VRNG",
+    "NAME":"Vringo, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VRNS",
+    "NAME":"Varonis Systems, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VRNT",
+    "NAME":"Verint Systems Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VRSK",
+    "NAME":"Verisk Analytics, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VRSN",
+    "NAME":"VeriSign, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VRTB",
+    "NAME":"Vestin Realty Mortgage II, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VRTS",
+    "NAME":"Virtus Investment Partners, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VRTU",
+    "NAME":"Virtusa Corporation - common stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VRTX",
+    "NAME":"Vertex Pharmaceuticals Incorporated - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VSAR",
+    "NAME":"Versartis, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VSAT",
+    "NAME":"ViaSat, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VSCP",
+    "NAME":"VirtualScopics, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VSEC",
+    "NAME":"VSE Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VSTM",
+    "NAME":"Verastem, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VTAE",
+    "NAME":"Vitae Pharmaceuticals, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VTHR",
+    "NAME":"Vanguard Russell 3000 ETF",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VTIP",
+    "NAME":"Vanguard Short-Term Inflation-Protected Securities Index Fund",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VTL",
+    "NAME":"Vital Therapies, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VTNR",
+    "NAME":"Vertex Energy, Inc - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VTVT",
+    "NAME":"vTv Therapeutics Inc. - Class A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VTWG",
+    "NAME":"Vanguard Russell 2000 Growth ETF",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VTWO",
+    "NAME":"Vanguard Russell 2000 ETF",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VTWV",
+    "NAME":"Vanguard Russell 2000 Value ETF",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VUSE",
+    "NAME":"Vident Core US Equity ETF",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VUZI",
+    "NAME":"Vuzix Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VVUS",
+    "NAME":"VIVUS, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VWOB",
+    "NAME":"Vanguard Emerging Markets Government Bond ETF",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VWR",
+    "NAME":"VWR Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VXDN",
+    "NAME":"AccuShares Spot CBOE VIX Down Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VXUP",
+    "NAME":"AccuShares Spot CBOE VIX Up Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VXUS",
+    "NAME":"Vanguard Total International Stock ETF",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"VYGR",
+    "NAME":"Voyager Therapeutics, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WABC",
+    "NAME":"Westamerica Bancorporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WAFD",
+    "NAME":"Washington Federal, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WAFDW",
+    "NAME":"Washington Federal, Inc. - Warrants 11/14/2018",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WASH",
+    "NAME":"Washington Trust Bancorp, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WATT",
+    "NAME":"Energous Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WAVX",
+    "NAME":"Wave Systems Corp. - Class A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WAYN",
+    "NAME":"Wayne Savings Bancshares Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WB",
+    "NAME":"Weibo Corporation - American Depositary Share",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WBA",
+    "NAME":"Walgreens Boots Alliance, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WBB",
+    "NAME":"Westbury Bancorp, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WBKC",
+    "NAME":"Wolverine Bancorp, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WBMD",
+    "NAME":"WebMD Health Corp - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WDC",
+    "NAME":"Western Digital Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WDFC",
+    "NAME":"WD-40 Company - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WEB",
+    "NAME":"Web.com Group, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WEBK",
+    "NAME":"Wellesley Bancorp, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WEN",
+    "NAME":"Wendy's Company (The) - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WERN",
+    "NAME":"Werner Enterprises, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WETF",
+    "NAME":"WisdomTree Investments, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WEYS",
+    "NAME":"Weyco Group, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WFBI",
+    "NAME":"WashingtonFirst Bankshares Inc - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WFD",
+    "NAME":"Westfield Financial, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WFM",
+    "NAME":"Whole Foods Market, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WGBS",
+    "NAME":"WaferGen Bio-systems, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WHF",
+    "NAME":"WhiteHorse Finance, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WHFBL",
+    "NAME":"WhiteHorse Finance, Inc. - 6.50% Senior Notes due 2020",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WHLM",
+    "NAME":"Wilhelmina International, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WHLR",
+    "NAME":"Wheeler Real Estate Investment Trust, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WHLRP",
+    "NAME":"Wheeler Real Estate Investment Trust, Inc. - Preferred Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WHLRW",
+    "NAME":"Wheeler Real Estate Investment Trust, Inc. - Warrants",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WIBC",
+    "NAME":"Wilshire Bancorp, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WIFI",
+    "NAME":"Boingo Wireless, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WILC",
+    "NAME":"G. Willi-Food International,  Ltd. - Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WILN",
+    "NAME":"Wi-LAN Inc - Common Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WIN",
+    "NAME":"Windstream Holdings, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WINA",
+    "NAME":"Winmark Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WING",
+    "NAME":"Wingstop Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WINS",
+    "NAME":"Wins Finance Holdings Inc. - Ordinary Shares (Cayman Islands)",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WIRE",
+    "NAME":"Encore Wire Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WIX",
+    "NAME":"Wix.com Ltd. - Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WKHS",
+    "NAME":"Workhorse Group, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WLB",
+    "NAME":"Westmoreland Coal Company - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WLDN",
+    "NAME":"Willdan Group, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WLFC",
+    "NAME":"Willis Lease Finance Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WLRH",
+    "NAME":"WL Ross Holding Corp. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WLRHU",
+    "NAME":"WL Ross Holding Corp. - Unit",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WLRHW",
+    "NAME":"WL Ross Holding Corp. - Warrant",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WLTW",
+    "NAME":"Willis Towers Watson Public Limited Company - Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WMAR",
+    "NAME":"West Marine, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WMGI",
+    "NAME":"Wright Medical Group N.V. - Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WMGIZ",
+    "NAME":"Wright Medical Group N.V. - Contingent Value Right",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WMIH",
+    "NAME":"WMIH Corp. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WOOD",
+    "NAME":"iShares S&P Global Timber & Forestry Index Fund",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WOOF",
+    "NAME":"VCA Inc.  - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WOWO",
+    "NAME":"Wowo Limited - ADS",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WPCS",
+    "NAME":"WPCS International Incorporated - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WPPGY",
+    "NAME":"WPP plc - American Depositary Shares each representing five Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WPRT",
+    "NAME":"Westport Innovations Inc - Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WRES",
+    "NAME":"Warren Resources, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WRLD",
+    "NAME":"World Acceptance Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WSBC",
+    "NAME":"WesBanco, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WSBF",
+    "NAME":"Waterstone Financial, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WSCI",
+    "NAME":"WSI Industries Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WSFS",
+    "NAME":"WSFS Financial Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WSFSL",
+    "NAME":"WSFS Financial Corporation - 6.25% Senior Notes Due 2019",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WSTC",
+    "NAME":"West Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WSTG",
+    "NAME":"Wayside Technology Group, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WSTL",
+    "NAME":"Westell Technologies, Inc. - Class A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WTBA",
+    "NAME":"West Bancorporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WTFC",
+    "NAME":"Wintrust Financial Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WTFCM",
+    "NAME":"Wintrust Financial Corporation - Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series D",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WTFCW",
+    "NAME":"Wintrust Financial Corporation - Warrants",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WVE",
+    "NAME":"WAVE Life Sciences Ltd. - Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WVFC",
+    "NAME":"WVS Financial Corp. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WVVI",
+    "NAME":"Willamette Valley Vineyards, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WVVIP",
+    "NAME":"Willamette Valley Vineyards, Inc. - Series A Redeemable Preferred Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WWD",
+    "NAME":"Woodward, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WYIG",
+    "NAME":"JM Global Holding Company - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WYIGU",
+    "NAME":"JM Global Holding Company - Units",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WYIGW",
+    "NAME":"JM Global Holding Company - Warrants",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"WYNN",
+    "NAME":"Wynn Resorts, Limited - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"XBIT",
+    "NAME":"XBiotech Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"XBKS",
+    "NAME":"Xenith Bankshares, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"XCOM",
+    "NAME":"Xtera Communications, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"XCRA",
+    "NAME":"Xcerra Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"XELB",
+    "NAME":"Xcel Brands, Inc - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"XENE",
+    "NAME":"Xenon Pharmaceuticals Inc. - Common Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"XENT",
+    "NAME":"Intersect ENT, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"XGTI",
+    "NAME":"XG Technology, Inc - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"XGTIW",
+    "NAME":"XG Technology, Inc - Warrants",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"XIV",
+    "NAME":"Credit Suisse AG - VelocityShares Daily Inverse VIX Short Term ETN",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"XLNX",
+    "NAME":"Xilinx, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"XLRN",
+    "NAME":"Acceleron Pharma Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"XNCR",
+    "NAME":"Xencor, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"XNET",
+    "NAME":"Xunlei Limited - American Depositary Receipts",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"XNPT",
+    "NAME":"XenoPort, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"XOMA",
+    "NAME":"XOMA Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"XONE",
+    "NAME":"The ExOne Company - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"XPLR",
+    "NAME":"Xplore Technologies Corp - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"XRAY",
+    "NAME":"DENTSPLY International Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"XRDC",
+    "NAME":"Crossroads Capital, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"XTLB",
+    "NAME":"XTL Biopharmaceuticals Ltd. - American Depositary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"XXIA",
+    "NAME":"Ixia - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"YCB",
+    "NAME":"Your Community Bankshares, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"YDIV",
+    "NAME":"First Trust International Multi-Asset Diversified Income Index Fund",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"YECO",
+    "NAME":"Yulong Eco-Materials Limited - Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"YHOO",
+    "NAME":"Yahoo! Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"YLCO",
+    "NAME":"Global X Yieldco Index ETF",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"YNDX",
+    "NAME":"Yandex N.V. - Class A Ordinary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"YOD",
+    "NAME":"You On Demand Holdings, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"YORW",
+    "NAME":"The York Water Company - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"YPRO",
+    "NAME":"AdvisorShares YieldPro ETF",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"YRCW",
+    "NAME":"YRC Worldwide, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"YY",
+    "NAME":"YY Inc. - American Depositary Shares",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"Z",
+    "NAME":"Zillow Group, Inc. - Class C Capital Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ZAGG",
+    "NAME":"ZAGG Inc - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ZAIS",
+    "NAME":"ZAIS Group Holdings, Inc. - Class A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ZBIO",
+    "NAME":"ProShares UltraPro Short NASDAQ Biotechnology",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ZBRA",
+    "NAME":"Zebra Technologies Corporation - Class A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ZEUS",
+    "NAME":"Olympic Steel, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ZFGN",
+    "NAME":"Zafgen, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ZG",
+    "NAME":"Zillow Group, Inc. - Class A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ZGNX",
+    "NAME":"Zogenix, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ZHNE",
+    "NAME":"Zhone Technologies, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ZINC",
+    "NAME":"Horsehead Holding Corp. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ZION",
+    "NAME":"Zions Bancorporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ZIONW",
+    "NAME":"Zions Bancorporation - Warrants 05/21/2020",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ZIONZ",
+    "NAME":"Zions Bancorporation - Warrants",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ZIOP",
+    "NAME":"ZIOPHARM Oncology Inc - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ZIV",
+    "NAME":"Credit Suisse AG - VelocityShares Daily Inverse VIX Medium Term ETN",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ZIXI",
+    "NAME":"Zix Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ZJZZT",
+    "NAME":"NASDAQ TEST STOCK",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ZLTQ",
+    "NAME":"ZELTIQ Aesthetics, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ZN",
+    "NAME":"Zion Oil & Gas Inc - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ZNGA",
+    "NAME":"Zynga Inc. - Class A Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ZNWAA",
+    "NAME":"Zion Oil & Gas Inc - Warrants",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ZSAN",
+    "NAME":"Zosano Pharma Corporation - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ZUMZ",
+    "NAME":"Zumiez Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ZVZZT",
+    "NAME":"NASDAQ TEST STOCK",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ZWZZT",
+    "NAME":"NASDAQ TEST STOCK",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ZXYZ.A",
+    "NAME":"Nasdaq Symbology Test Common Stock",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ZXZZT",
+    "NAME":"NASDAQ TEST STOCK",
+    "EXCHANGE":"NASDAQ"
+  },
+  {
+    "SYMBOL":"ZYNE",
+    "NAME":"Zynerba Pharmaceuticals, Inc. - Common Stock",
+    "EXCHANGE":"NASDAQ"
+  }
+]
+}
