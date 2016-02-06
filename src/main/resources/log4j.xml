@@ -7,14 +7,14 @@
 		<param name="File" value="${applicationPath}/logs/DailyDataCollect.log" />
 		<!-- <param name="File" value="/Users/ssaini/Documents/DSGWorkspace/Easyfin4uUtil/src/main/resources/DailyDataCollect.log" /> -->
 		<layout class="org.apache.log4j.PatternLayout">
-			 <param name="ConversionPattern" value="DT:%d{MM/dd/yyyy HH\:mm\:ss} LL:%5p hostname:${hostname} CL:%c{1} MSG:%m%n" />
+			 <param name="ConversionPattern" value="DT:%d{MM/dd/yyyy HH\:mm\:ss} LL:%5p CL:%c{1} MSG:%m%n" />
 		</layout>
 		<param name="MaxFileSize" value="100MB" />
 		<param name="MaxBackupIndex" value="5" />
 	</appender>
 	<appender name="consoleAppender" class="org.apache.log4j.ConsoleAppender">
 		<layout class="org.apache.log4j.PatternLayout">
-			 <param name="ConversionPattern" value="DT:%d{MM/dd/yyyy HH\:mm\:ss} LL:%5p hostname:${hostname} CL:%c{1} MSG:%m%n" />
+			 <param name="ConversionPattern" value="DT:%d{MM/dd/yyyy HH\:mm\:ss} LL:%5p CL:%c{1} MSG:%m%n" />
 		</layout>
 	</appender>
 	
@@ -23,7 +23,7 @@
 	<appender name="ASYNC" class="org.apache.log4j.AsyncAppender">
 		<param name="BufferSize" value="500" />
 		<appender-ref ref="fileAppender" />
-		<appender-ref ref="consoleAppender" />
+<!-- 		<appender-ref ref="consoleAppender" /> -->
 	</appender>
 	<root>
 		<priority value="INFO" />

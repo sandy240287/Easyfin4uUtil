@@ -170,7 +170,7 @@ public class DailyDataCollect {
 			logger.info("DATE:"+strDate);
 			logger.info("PRICE:"+day_end_adjusted);
 			
-			//DailyDataCollect.insertToMongo(table,symbol,strDate,day_low,day_high,"","",day_end_adjusted);	
+			DailyDataCollect.insertToMongo(table,symbol,strDate,day_low,day_high,"","",day_end_adjusted);	
 
 		}
 	
