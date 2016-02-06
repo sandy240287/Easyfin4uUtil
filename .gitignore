@@ -1,0 +1,15 @@
+lib-cov
+*.seed
+*.log
+*.dat
+*.out
+*.pid
+*.gz
+*.class
+
+pids
+logs
+results
+
+maven-archiver
+classes

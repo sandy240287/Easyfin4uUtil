@@ -2,7 +2,6 @@ package com.easyfin4u;
 
 
 import java.io.BufferedReader;
-import java.io.FileReader;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
@@ -15,6 +14,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.TimeZone;
 
+import org.apache.log4j.Logger;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
@@ -45,6 +45,7 @@ public class DailyDataCollect {
 	static JSONParser parser1 = new JSONParser();
 	static Calendar cal1 = Calendar.getInstance();
 	static SimpleDateFormat sdf1 = new SimpleDateFormat("yyyy-MM-dd");
+	private static final Logger logger = Logger.getLogger(DailyDataCollect.class.getName());
 	
 	
 	public static void main(String args[]){
@@ -165,11 +166,11 @@ public class DailyDataCollect {
 			strDate = sdf1.format(date);
 			
 			//print result
-			System.out.println(symbol);
-			System.out.println(strDate);
-			System.out.println(day_end_adjusted);
+			logger.info("SYMBOL:"+symbol);
+			logger.info("DATE:"+strDate);
+			logger.info("PRICE:"+day_end_adjusted);
 			
-			DailyDataCollect.insertToMongo(table,symbol,strDate,day_low,day_high,"","",day_end_adjusted);	
+			//DailyDataCollect.insertToMongo(table,symbol,strDate,day_low,day_high,"","",day_end_adjusted);	
 
 		}
 	
