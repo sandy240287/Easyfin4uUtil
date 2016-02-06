@@ -2,6 +2,8 @@ package com.easyfin4u;
 
 
 import java.io.FileReader;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Calendar;
@@ -22,30 +24,39 @@ import com.mongodb.BasicDBObject;
 import com.mongodb.DB;
 import com.mongodb.DBCollection;
 import com.mongodb.MongoClient;
+import com.mongodb.MongoClientURI;
 import com.mongodb.WriteResult;
 
-public class HistoricalData {
+public class NASDAQ_WeeklyDataCollect {
 	
 	@SuppressWarnings("resource")
-	static MongoClient mongoClient = new MongoClient( "localhost" , 27017 );
-	static DB db = mongoClient.getDB("test");
-	static DBCollection table = db.getCollection("historicalstocks");
+//	static MongoClient mongoClient = new MongoClient( "localhost" , 27017 );
+//	static DB db = mongoClient.getDB("easyfinDB");
 
+	static MongoClient mongo = new MongoClient(
+			  new MongoClientURI( "mongodb://easyadmin:easyadmin_101@localhost:27017/easyfinDB" )
+			);
+	@SuppressWarnings("deprecation")
+	static DBCollection table = mongo.getDB("easyfinDB").getCollection("historicalstocks");
+	
 	public static void main(String args[]){
 
 		String strdate = null;
 		SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
 		JSONParser parser = new JSONParser();
 		String symbol = null;
+		ClassLoader classLoader = NASDAQ_HistoricalData.class.getClassLoader();
+		InputStream in = classLoader.getResourceAsStream("nasdaq_symbol.json");
+		InputStreamReader inReader = new InputStreamReader(in);
 		
 		try {
 
 			Calendar from = Calendar.getInstance();
 			Calendar to = Calendar.getInstance();
-			from.add(Calendar.DAY_OF_MONTH, -5); // from 5 years ago 
+			from.add(Calendar.DAY_OF_MONTH, -1); // from 5 years ago 
 			
-			Object obj = parser.parse(new FileReader("/Users/Sandy/Documents/workspace/Easyfin4uUtil/bse_symbol.json"));
-
+			Object obj = parser.parse(inReader);
+			
 			JSONObject jsonObject = (JSONObject) obj;
 			JSONArray symbolList = (JSONArray) jsonObject.get("symbolList");
 			
@@ -55,7 +66,7 @@ public class HistoricalData {
                 
             	symbol = iterator.next().get("SYMBOL").toString();
                 try{
-                		Stock google = YahooFinance.get(symbol, from, to, Interval.DAILY);
+                		Stock google = YahooFinance.get(symbol, from, to, Interval.WEEKLY);
 				
 						for (HistoricalQuote temp : google.getHistory()) {
 							
@@ -63,8 +74,7 @@ public class HistoricalData {
 								strdate = sdf.format(temp.getDate().getTime());
 								}
 							
-							//System.out.println(iterator.next().get("SYMBOL"));
-							System.out.println(temp.getSymbol());
+							System.out.println(symbol);
 							System.out.println(strdate);
 //							System.out.println(temp.getLow());
 //							System.out.println(temp.getHigh());
@@ -72,7 +82,7 @@ public class HistoricalData {
 //							System.out.println(temp.getClose());
 //							System.out.println(temp.getAdjClose());
 							
-							HistoricalData.insertToMongo(temp.getSymbol(),strdate,temp.getLow().toPlainString(),temp.getHigh().toPlainString(),
+							NASDAQ_WeeklyDataCollect.insertToMongo(symbol,strdate,temp.getLow().toPlainString(),temp.getHigh().toPlainString(),
 									temp.getOpen().toPlainString(),temp.getClose().toPlainString(),temp.getAdjClose().toPlainString());
 							
 							//break;
@@ -92,6 +102,7 @@ public class HistoricalData {
 	
 	public static void insertToMongo(String symbol,String date, String dayLow, String dayHigh, String dayOpen,
 				String dayClose, String dayAdj){
+		
 		WriteResult wr = null;
 		
 		BasicDBObject andQuery = new BasicDBObject();
@@ -100,8 +111,7 @@ public class HistoricalData {
 		obj.add(new BasicDBObject("date", date));
 		andQuery.put("$and", obj);
 		
-		
-		/**** Update ****/
+		/**** Insert ****/
 		// create a document to store key and value
 		BasicDBObject document = new BasicDBObject();
 		document.put("symbol", symbol);
@@ -111,7 +121,9 @@ public class HistoricalData {
 		document.put("day_open", dayOpen);
 		document.put("day_close", dayClose);
 		document.put("day_end_adjusted", dayAdj);
-		wr = table.update(andQuery,document,true,true);
+		//wr = table.update(andQuery,document,true,true);
+		table.insert(document);
+		
 	}
 	
 	

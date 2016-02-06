@@ -65,7 +65,7 @@ public class HistoricalDataThread extends Thread {
 	   							System.out.println(temp.getSymbol());
 	   							System.out.println(strdate);
 	   							
-	   							HistoricalData.insertToMongo(temp.getSymbol(),strdate,temp.getLow().toPlainString(),temp.getHigh().toPlainString(),
+	   							NASDAQ_HistoricalData.insertToMongo(temp.getSymbol(),strdate,temp.getLow().toPlainString(),temp.getHigh().toPlainString(),
 	   									temp.getOpen().toPlainString(),temp.getClose().toPlainString(),temp.getAdjClose().toPlainString());
 	   							
 	   							//break;
